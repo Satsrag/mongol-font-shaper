@@ -1,0 +1,5312 @@
+{
+  "schema": "mongol-font-shaper-profile-v1",
+  "id": "utn57",
+  "description": "Draft family profile generated from NotoSansMongolian-Regular (Unicode, 318 rules) / 基于 NotoSansMongolian-Regular 自动预生成的家族级字形映射配置（Unicode，共 318 条规则）",
+  "encoding_class": "unicode",
+  "language": "mn",
+  "rules": [
+    {
+      "kind": "units",
+      "units": "A:fina",
+      "glyph_names": [
+        "u1820.A.fina",
+        "u1821.A.fina",
+        "u1828.A.fina",
+        "uni1820.A.fina",
+        "uni1821.A.fina",
+        "uni1828.A.fina"
+      ],
+      "probes": [
+        {
+          "text": "ᠰᠠᠠ",
+          "glyph_index": 2,
+          "cluster": 2,
+          "end_cluster": 3
+        },
+        {
+          "text": "ᠰᠠᠡ",
+          "glyph_index": 2,
+          "cluster": 2,
+          "end_cluster": 3
+        },
+        {
+          "text": "ᠠᠨ",
+          "glyph_index": 1,
+          "cluster": 1,
+          "end_cluster": 2
+        }
+      ]
+    },
+    {
+      "kind": "units",
+      "units": "A:init",
+      "glyph_names": [
+        "u1820.A.init",
+        "u1821.A.init",
+        "u1828.A.init",
+        "uni1820.A.init",
+        "uni1821.A.init",
+        "uni1828.A.init"
+      ],
+      "probes": [
+        {
+          "text": "ᠭᠠᠶᠠᠷ ᠠᠴᠠ",
+          "glyph_index": 6,
+          "cluster": 6,
+          "end_cluster": 7
+        },
+        {
+          "text": "ᠡᠠᠯ",
+          "glyph_index": 0,
+          "cluster": 0,
+          "end_cluster": 1
+        },
+        {
+          "text": "ᠨ᠋ᠠᠯ",
+          "glyph_index": 0,
+          "cluster": 0,
+          "end_cluster": 2
+        }
+      ]
+    },
+    {
+      "kind": "units",
+      "units": "A:init",
+      "joining": "isol",
+      "glyph_names": [
+        "u1828.A.init._isol",
+        "uni1828.A.init._isol"
+      ],
+      "probes": [
+        {
+          "text": "ᠨ᠋",
+          "glyph_index": 0,
+          "cluster": 0,
+          "end_cluster": 2
+        }
+      ]
+    },
+    {
+      "kind": "units",
+      "units": "A:init A:fina",
+      "glyph_names": [
+        "u1820.AA.isol",
+        "uni1820.AA.isol"
+      ],
+      "probes": [
+        {
+          "text": "ᠠ",
+          "glyph_index": 0,
+          "cluster": 0,
+          "end_cluster": 1
+        }
+      ]
+    },
+    {
+      "kind": "units",
+      "units": "A:init A:medi",
+      "glyph_names": [
+        "u1820.AA.init",
+        "u1821.AA.init",
+        "uni1820.AA.init",
+        "uni1821.AA.init"
+      ],
+      "probes": [
+        {
+          "text": "ᠠᠠᠯ",
+          "glyph_index": 0,
+          "cluster": 0,
+          "end_cluster": 1
+        },
+        {
+          "text": "ᠡ᠋ᠠᠯ",
+          "glyph_index": 0,
+          "cluster": 0,
+          "end_cluster": 2
+        }
+      ]
+    },
+    {
+      "kind": "units",
+      "units": "A:init G:fina",
+      "glyph_names": [
+        "u1829.AG.medi._isol",
+        "uni1829.AG.medi._isol"
+      ],
+      "probes": [
+        {
+          "text": "ᠩ",
+          "glyph_index": 0,
+          "cluster": 0,
+          "end_cluster": 1
+        }
+      ]
+    },
+    {
+      "kind": "units",
+      "units": "A:init G:medi",
+      "glyph_names": [
+        "u1829.AG.medi._init",
+        "uni1829.AG.medi._init"
+      ],
+      "probes": [
+        {
+          "text": "ᠩᠠᠯ",
+          "glyph_index": 0,
+          "cluster": 0,
+          "end_cluster": 1
+        }
+      ]
+    },
+    {
+      "kind": "units",
+      "units": "A:init Hr:fina",
+      "glyph_names": [
+        "u183E.AHr.init._isol",
+        "uni183E.AHr.init._isol"
+      ],
+      "probes": [
+        {
+          "text": "ᠾ",
+          "glyph_index": 0,
+          "cluster": 0,
+          "end_cluster": 1
+        }
+      ]
+    },
+    {
+      "kind": "units",
+      "units": "A:init Hr:medi",
+      "glyph_names": [
+        "u183E.AHr.init",
+        "uni183E.AHr.init"
+      ],
+      "probes": [
+        {
+          "text": "ᠾᠠᠯ",
+          "glyph_index": 0,
+          "cluster": 0,
+          "end_cluster": 1
+        }
+      ]
+    },
+    {
+      "kind": "units",
+      "units": "A:init I:fina",
+      "glyph_names": [
+        "u1822.AI.isol",
+        "uni1822.AI.isol"
+      ],
+      "probes": [
+        {
+          "text": "ᠢ",
+          "glyph_index": 0,
+          "cluster": 0,
+          "end_cluster": 1
+        }
+      ]
+    },
+    {
+      "kind": "units",
+      "units": "A:init I:medi",
+      "glyph_names": [
+        "u1822.AI.init",
+        "uni1822.AI.init"
+      ],
+      "probes": [
+        {
+          "text": "ᠢᠠᠯ",
+          "glyph_index": 0,
+          "cluster": 0,
+          "end_cluster": 1
+        }
+      ]
+    },
+    {
+      "kind": "units",
+      "units": "A:init O:fina",
+      "glyph_names": [
+        "u1823.AO.isol",
+        "u1824.AO.isol",
+        "uni1823.AO.isol",
+        "uni1824.AO.isol"
+      ],
+      "probes": [
+        {
+          "text": "ᠣ",
+          "glyph_index": 0,
+          "cluster": 0,
+          "end_cluster": 1
+        },
+        {
+          "text": "ᠤ",
+          "glyph_index": 0,
+          "cluster": 0,
+          "end_cluster": 1
+        }
+      ]
+    },
+    {
+      "kind": "units",
+      "units": "A:init O:medi",
+      "glyph_names": [
+        "u1823.AO.init",
+        "u1824.AO.init",
+        "uni1823.AO.init",
+        "uni1824.AO.init"
+      ],
+      "probes": [
+        {
+          "text": "ᠣᠠᠯ",
+          "glyph_index": 0,
+          "cluster": 0,
+          "end_cluster": 1
+        },
+        {
+          "text": "ᠤᠠᠯ",
+          "glyph_index": 0,
+          "cluster": 0,
+          "end_cluster": 1
+        }
+      ]
+    },
+    {
+      "kind": "units",
+      "units": "A:init O:medi I:medi",
+      "glyph_names": [
+        "u1825.AOI.init",
+        "u1826.AOI.init",
+        "uni1825.AOI.init",
+        "uni1826.AOI.init"
+      ],
+      "probes": [
+        {
+          "text": "ᠥᠠᠯ",
+          "glyph_index": 0,
+          "cluster": 0,
+          "end_cluster": 1
+        },
+        {
+          "text": "ᠦᠠᠯ",
+          "glyph_index": 0,
+          "cluster": 0,
+          "end_cluster": 1
+        }
+      ]
+    },
+    {
+      "kind": "units",
+      "units": "A:init U:fina",
+      "glyph_names": [
+        "u1825.AU.isol",
+        "u1826.AU.isol",
+        "uni1825.AU.isol",
+        "uni1826.AU.isol"
+      ],
+      "probes": [
+        {
+          "text": "ᠥ᠋",
+          "glyph_index": 0,
+          "cluster": 0,
+          "end_cluster": 2
+        },
+        {
+          "text": "ᠦ᠋",
+          "glyph_index": 0,
+          "cluster": 0,
+          "end_cluster": 2
+        }
+      ]
+    },
+    {
+      "kind": "units",
+      "units": "A:init Ue:fina",
+      "glyph_names": [
+        "u1825.AUe.isol",
+        "u1826.AUe.isol",
+        "uni1825.AUe.isol",
+        "uni1826.AUe.isol"
+      ],
+      "probes": [
+        {
+          "text": "ᠥ",
+          "glyph_index": 0,
+          "cluster": 0,
+          "end_cluster": 1
+        },
+        {
+          "text": "ᠦ",
+          "glyph_index": 0,
+          "cluster": 0,
+          "end_cluster": 1
+        }
+      ]
+    },
+    {
+      "kind": "units",
+      "units": "A:init W:fina",
+      "glyph_names": [
+        "u1827.AW.isol",
+        "uni1827.AW.isol"
+      ],
+      "probes": [
+        {
+          "text": "ᠧ",
+          "glyph_index": 0,
+          "cluster": 0,
+          "end_cluster": 1
+        }
+      ]
+    },
+    {
+      "kind": "units",
+      "units": "A:init W:medi",
+      "glyph_names": [
+        "u1827.AW.init",
+        "uni1827.AW.init"
+      ],
+      "probes": [
+        {
+          "text": "ᠧᠠᠯ",
+          "glyph_index": 0,
+          "cluster": 0,
+          "end_cluster": 1
+        }
+      ]
+    },
+    {
+      "kind": "units",
+      "units": "A:isol",
+      "glyph_names": [
+        "u1820.A.isol",
+        "u1821.A.isol",
+        "uni1820.A.isol",
+        "uni1821.A.isol"
+      ],
+      "probes": [
+        {
+          "text": "ᠠ᠋",
+          "glyph_index": 0,
+          "cluster": 0,
+          "end_cluster": 2
+        },
+        {
+          "text": "ᠡ",
+          "glyph_index": 0,
+          "cluster": 0,
+          "end_cluster": 1
+        }
+      ]
+    },
+    {
+      "kind": "units",
+      "units": "A:medi",
+      "glyph_names": [
+        "u1820.A.medi",
+        "u1821.A.medi",
+        "u1828.A.medi",
+        "uni1820.A.medi",
+        "uni1821.A.medi",
+        "uni1828.A.medi"
+      ],
+      "probes": [
+        {
+          "text": "ᠠᠠᠯ",
+          "glyph_index": 1,
+          "cluster": 1,
+          "end_cluster": 2
+        },
+        {
+          "text": "ᠠᠡᠯ",
+          "glyph_index": 1,
+          "cluster": 1,
+          "end_cluster": 2
+        },
+        {
+          "text": "ᠰᠠᠨᠨ",
+          "glyph_index": 2,
+          "cluster": 2,
+          "end_cluster": 3
+        }
+      ]
+    },
+    {
+      "kind": "units",
+      "units": "A:medi A:medi",
+      "glyph_names": [
+        "u1820.AA.medi",
+        "uni1820.AA.medi"
+      ],
+      "probes": [
+        {
+          "text": "ᠰᠠᠠ᠋ᠠᠯ",
+          "glyph_index": 2,
+          "cluster": 2,
+          "end_cluster": 4
+        }
+      ]
+    },
+    {
+      "kind": "units",
+      "units": "A:medi G:fina",
+      "glyph_names": [
+        "u1829.AG.fina",
+        "uni1829.AG.fina"
+      ],
+      "probes": [
+        {
+          "text": "ᠰᠠᠩ",
+          "glyph_index": 2,
+          "cluster": 2,
+          "end_cluster": 3
+        }
+      ]
+    },
+    {
+      "kind": "units",
+      "units": "A:medi G:medi",
+      "glyph_names": [
+        "u1829.AG.medi",
+        "uni1829.AG.medi"
+      ],
+      "probes": [
+        {
+          "text": "ᠰᠠᠩᠠᠯ",
+          "glyph_index": 2,
+          "cluster": 2,
+          "end_cluster": 3
+        }
+      ]
+    },
+    {
+      "kind": "units",
+      "units": "A:medi G:medi H:fina",
+      "glyph_names": [
+        "AGH.fina"
+      ],
+      "probes": [
+        {
+          "text": "ᠡᠩᠭ᠎ᠡ",
+          "glyph_index": 1,
+          "cluster": 1,
+          "end_cluster": 3
+        }
+      ]
+    },
+    {
+      "kind": "units",
+      "units": "A:medi G:medi H:medi",
+      "glyph_names": [
+        "AGH.medi"
+      ]
+    },
+    {
+      "kind": "units",
+      "units": "A:medi G:medi Hx:fina",
+      "glyph_names": [
+        "AGHx.fina"
+      ],
+      "probes": [
+        {
+          "text": "ᠠᠩᠭ᠎ᠠ",
+          "glyph_index": 1,
+          "cluster": 1,
+          "end_cluster": 3
+        }
+      ]
+    },
+    {
+      "kind": "units",
+      "units": "A:medi G:medi Hx:medi",
+      "glyph_names": [
+        "AGHx.medi"
+      ],
+      "probes": [
+        {
+          "text": "ᠮᠣᠩᠭᠣᠯ",
+          "glyph_index": 2,
+          "cluster": 2,
+          "end_cluster": 4
+        }
+      ]
+    },
+    {
+      "kind": "units",
+      "units": "A:medi G:medi L:medi",
+      "glyph_names": [
+        "AGL.medi"
+      ]
+    },
+    {
+      "kind": "units",
+      "units": "A:medi G:medi M:medi",
+      "glyph_names": [
+        "AGM.medi"
+      ]
+    },
+    {
+      "kind": "units",
+      "units": "A:medi G:medi N:medi",
+      "glyph_names": [
+        "AGN.medi"
+      ]
+    },
+    {
+      "kind": "units",
+      "units": "A:medi I:medi",
+      "glyph_names": [
+        "u1822.AI.medi",
+        "uni1822.AI.medi"
+      ],
+      "probes": [
+        {
+          "text": "ᠰᠠᠢ᠋ᠠᠯ",
+          "glyph_index": 2,
+          "cluster": 2,
+          "end_cluster": 4
+        }
+      ]
+    },
+    {
+      "kind": "units",
+      "units": "A:medi O:medi",
+      "glyph_names": [
+        "u1823.AO.medi",
+        "u1824.AO.medi",
+        "uni1823.AO.medi",
+        "uni1824.AO.medi"
+      ],
+      "probes": [
+        {
+          "text": "ᠰᠠᠣ᠋ᠠᠯ",
+          "glyph_index": 2,
+          "cluster": 2,
+          "end_cluster": 4
+        },
+        {
+          "text": "ᠰᠠᠤ᠋ᠠᠯ",
+          "glyph_index": 2,
+          "cluster": 2,
+          "end_cluster": 4
+        }
+      ]
+    },
+    {
+      "kind": "units",
+      "units": "A:medi O:medi I:medi",
+      "glyph_names": [
+        "u1825.AOI.medi",
+        "u1826.AOI.medi",
+        "uni1825.AOI.medi",
+        "uni1826.AOI.medi"
+      ],
+      "probes": [
+        {
+          "text": "ᠰᠠᠥ᠌ᠠᠯ",
+          "glyph_index": 2,
+          "cluster": 2,
+          "end_cluster": 4
+        },
+        {
+          "text": "ᠰᠠᠦ᠌ᠠᠯ",
+          "glyph_index": 2,
+          "cluster": 2,
+          "end_cluster": 4
+        }
+      ]
+    },
+    {
+      "kind": "units",
+      "units": "Aa:fina",
+      "glyph_names": [
+        "u1820.Aa.fina",
+        "u1821.Aa.fina",
+        "uni1820.Aa.fina",
+        "uni1821.Aa.fina"
+      ],
+      "probes": [
+        {
+          "text": "ᠰᠠᠠ᠋",
+          "glyph_index": 2,
+          "cluster": 2,
+          "end_cluster": 4
+        },
+        {
+          "text": "ᠰᠠᠡ᠋",
+          "glyph_index": 2,
+          "cluster": 2,
+          "end_cluster": 4
+        }
+      ]
+    },
+    {
+      "kind": "units",
+      "units": "Aa:isol",
+      "glyph_names": [
+        "u1820.Aa.isol",
+        "u1821.Aa.isol",
+        "uni1820.Aa.isol",
+        "uni1821.Aa.isol"
+      ],
+      "probes": [
+        {
+          "text": "ᠠᠨ᠎ᠠ",
+          "glyph_index": 3,
+          "cluster": 3,
+          "end_cluster": 4
+        },
+        {
+          "text": "ᠡᠨ᠎ᠡ",
+          "glyph_index": 3,
+          "cluster": 3,
+          "end_cluster": 4
+        }
+      ]
+    },
+    {
+      "kind": "units",
+      "units": "B2:fina",
+      "glyph_names": [
+        "u182A.B2.fina",
+        "uni182A.B2.fina"
+      ],
+      "probes": [
+        {
+          "text": "ᠰᠠᠪ᠋",
+          "glyph_index": 2,
+          "cluster": 2,
+          "end_cluster": 4
+        }
+      ]
+    },
+    {
+      "kind": "units",
+      "units": "B:fina",
+      "glyph_names": [
+        "u182A.B.fina",
+        "uni182A.B.fina"
+      ],
+      "probes": [
+        {
+          "text": "ᠰᠠᠪ",
+          "glyph_index": 2,
+          "cluster": 2,
+          "end_cluster": 3
+        }
+      ]
+    },
+    {
+      "kind": "units",
+      "units": "B:init",
+      "glyph_names": [
+        "u182A.B.init",
+        "uni182A.B.init"
+      ],
+      "probes": [
+        {
+          "text": "ᠪᠩ",
+          "glyph_index": 0,
+          "cluster": 0,
+          "end_cluster": 1
+        }
+      ]
+    },
+    {
+      "kind": "units",
+      "units": "B:init",
+      "joining": "isol",
+      "glyph_names": [
+        "u182A.B.init._isol",
+        "uni182A.B.init._isol"
+      ],
+      "probes": [
+        {
+          "text": "ᠪ",
+          "glyph_index": 0,
+          "cluster": 0,
+          "end_cluster": 1
+        }
+      ]
+    },
+    {
+      "kind": "units",
+      "units": "B:init A:medi",
+      "glyph_names": [
+        "BA.init"
+      ],
+      "probes": [
+        {
+          "text": "ᠪᠠᠯ",
+          "glyph_index": 0,
+          "cluster": 0,
+          "end_cluster": 2
+        }
+      ]
+    },
+    {
+      "kind": "units",
+      "units": "B:init Aa:fina",
+      "glyph_names": [
+        "BAa.isol"
+      ],
+      "probes": [
+        {
+          "text": "ᠪᠠ",
+          "glyph_index": 0,
+          "cluster": 0,
+          "end_cluster": 2
+        }
+      ]
+    },
+    {
+      "kind": "units",
+      "units": "B:init I:fina",
+      "glyph_names": [
+        "BI.isol"
+      ],
+      "probes": [
+        {
+          "text": "ᠪᠢ",
+          "glyph_index": 0,
+          "cluster": 0,
+          "end_cluster": 2
+        }
+      ]
+    },
+    {
+      "kind": "units",
+      "units": "B:init I:medi",
+      "glyph_names": [
+        "BI.init"
+      ],
+      "probes": [
+        {
+          "text": "ᠪᠢᠯ",
+          "glyph_index": 0,
+          "cluster": 0,
+          "end_cluster": 2
+        }
+      ]
+    },
+    {
+      "kind": "units",
+      "units": "B:init L:medi",
+      "glyph_names": [
+        "BL.init"
+      ],
+      "probes": [
+        {
+          "text": "ᠪᠯᠯ",
+          "glyph_index": 0,
+          "cluster": 0,
+          "end_cluster": 2
+        }
+      ]
+    },
+    {
+      "kind": "units",
+      "units": "B:init M:medi",
+      "glyph_names": [
+        "BM.init"
+      ],
+      "probes": [
+        {
+          "text": "ᠪᠮᠯ",
+          "glyph_index": 0,
+          "cluster": 0,
+          "end_cluster": 2
+        }
+      ]
+    },
+    {
+      "kind": "units",
+      "units": "B:init O:fina",
+      "glyph_names": [
+        "BO.isol"
+      ],
+      "probes": [
+        {
+          "text": "ᠪᠣ",
+          "glyph_index": 0,
+          "cluster": 0,
+          "end_cluster": 2
+        }
+      ]
+    },
+    {
+      "kind": "units",
+      "units": "B:init O:medi",
+      "glyph_names": [
+        "BO.init"
+      ],
+      "probes": [
+        {
+          "text": "ᠪᠣᠯ",
+          "glyph_index": 0,
+          "cluster": 0,
+          "end_cluster": 2
+        }
+      ]
+    },
+    {
+      "kind": "units",
+      "units": "B:init O:medi I:medi",
+      "glyph_names": [
+        "BOI.init"
+      ],
+      "probes": [
+        {
+          "text": "ᠪᠥᠯ",
+          "glyph_index": 0,
+          "cluster": 0,
+          "end_cluster": 2
+        }
+      ]
+    },
+    {
+      "kind": "units",
+      "units": "B:init Ue:fina",
+      "glyph_names": [
+        "BUe.isol"
+      ],
+      "probes": [
+        {
+          "text": "ᠪᠥ",
+          "glyph_index": 0,
+          "cluster": 0,
+          "end_cluster": 2
+        }
+      ]
+    },
+    {
+      "kind": "units",
+      "units": "B:init W:fina",
+      "glyph_names": [
+        "BW.isol"
+      ],
+      "probes": [
+        {
+          "text": "ᠪᠧ",
+          "glyph_index": 0,
+          "cluster": 0,
+          "end_cluster": 2
+        }
+      ]
+    },
+    {
+      "kind": "units",
+      "units": "B:init W:medi",
+      "glyph_names": [
+        "BW.init"
+      ],
+      "probes": [
+        {
+          "text": "ᠪᠧᠯ",
+          "glyph_index": 0,
+          "cluster": 0,
+          "end_cluster": 2
+        }
+      ]
+    },
+    {
+      "kind": "units",
+      "units": "B:medi",
+      "glyph_names": [
+        "u182A.B.medi",
+        "uni182A.B.medi"
+      ],
+      "probes": [
+        {
+          "text": "ᠰᠪᠩᠯ",
+          "glyph_index": 1,
+          "cluster": 1,
+          "end_cluster": 2
+        }
+      ]
+    },
+    {
+      "kind": "units",
+      "units": "B:medi A:medi",
+      "glyph_names": [
+        "BA.medi"
+      ],
+      "probes": [
+        {
+          "text": "ᠰᠠᠪᠠᠯ",
+          "glyph_index": 2,
+          "cluster": 2,
+          "end_cluster": 4
+        }
+      ]
+    },
+    {
+      "kind": "units",
+      "units": "B:medi Aa:fina",
+      "glyph_names": [
+        "BAa.fina"
+      ],
+      "probes": [
+        {
+          "text": "ᠰᠠᠪᠠ",
+          "glyph_index": 2,
+          "cluster": 2,
+          "end_cluster": 4
+        }
+      ]
+    },
+    {
+      "kind": "units",
+      "units": "B:medi I:fina",
+      "glyph_names": [
+        "BI.fina"
+      ],
+      "probes": [
+        {
+          "text": "ᠰᠠᠪᠢ",
+          "glyph_index": 2,
+          "cluster": 2,
+          "end_cluster": 4
+        }
+      ]
+    },
+    {
+      "kind": "units",
+      "units": "B:medi I:medi",
+      "glyph_names": [
+        "BI.medi"
+      ],
+      "probes": [
+        {
+          "text": "ᠰᠪᠢᠯ",
+          "glyph_index": 1,
+          "cluster": 1,
+          "end_cluster": 3
+        }
+      ]
+    },
+    {
+      "kind": "units",
+      "units": "B:medi L:medi",
+      "glyph_names": [
+        "BL.medi"
+      ],
+      "probes": [
+        {
+          "text": "ᠰᠪᠯᠯ",
+          "glyph_index": 1,
+          "cluster": 1,
+          "end_cluster": 3
+        }
+      ]
+    },
+    {
+      "kind": "units",
+      "units": "B:medi M:medi",
+      "glyph_names": [
+        "BM.medi"
+      ],
+      "probes": [
+        {
+          "text": "ᠰᠪᠮᠯ",
+          "glyph_index": 1,
+          "cluster": 1,
+          "end_cluster": 3
+        }
+      ]
+    },
+    {
+      "kind": "units",
+      "units": "B:medi O:fina",
+      "glyph_names": [
+        "BO.fina"
+      ],
+      "probes": [
+        {
+          "text": "ᠰᠠᠪᠣ",
+          "glyph_index": 2,
+          "cluster": 2,
+          "end_cluster": 4
+        }
+      ]
+    },
+    {
+      "kind": "units",
+      "units": "B:medi O:medi",
+      "glyph_names": [
+        "BO.medi"
+      ],
+      "probes": [
+        {
+          "text": "ᠰᠪᠣᠯ",
+          "glyph_index": 1,
+          "cluster": 1,
+          "end_cluster": 3
+        }
+      ]
+    },
+    {
+      "kind": "units",
+      "units": "B:medi O:medi I:medi",
+      "glyph_names": [
+        "BOI.medi"
+      ],
+      "probes": [
+        {
+          "text": "ᠰᠪᠥᠯ",
+          "glyph_index": 1,
+          "cluster": 1,
+          "end_cluster": 3
+        }
+      ]
+    },
+    {
+      "kind": "units",
+      "units": "B:medi Ue:fina",
+      "glyph_names": [
+        "BUe.fina"
+      ],
+      "probes": [
+        {
+          "text": "ᠰᠠᠪᠥ᠋",
+          "glyph_index": 2,
+          "cluster": 2,
+          "end_cluster": 5
+        }
+      ]
+    },
+    {
+      "kind": "units",
+      "units": "B:medi W:fina",
+      "glyph_names": [
+        "BW.fina"
+      ],
+      "probes": [
+        {
+          "text": "ᠰᠠᠪᠧ",
+          "glyph_index": 2,
+          "cluster": 2,
+          "end_cluster": 4
+        }
+      ]
+    },
+    {
+      "kind": "units",
+      "units": "B:medi W:medi",
+      "glyph_names": [
+        "BW.medi"
+      ],
+      "probes": [
+        {
+          "text": "ᠰᠪᠧᠯ",
+          "glyph_index": 1,
+          "cluster": 1,
+          "end_cluster": 3
+        }
+      ]
+    },
+    {
+      "kind": "units",
+      "units": "C:fina",
+      "glyph_names": [
+        "u183C.C.fina",
+        "uni183C.C.fina"
+      ],
+      "probes": [
+        {
+          "text": "ᠰᠠᠼ",
+          "glyph_index": 2,
+          "cluster": 2,
+          "end_cluster": 3
+        }
+      ]
+    },
+    {
+      "kind": "units",
+      "units": "C:init",
+      "glyph_names": [
+        "u183C.C.init",
+        "uni183C.C.init"
+      ],
+      "probes": [
+        {
+          "text": "ᠼᠠᠯ",
+          "glyph_index": 0,
+          "cluster": 0,
+          "end_cluster": 1
+        }
+      ]
+    },
+    {
+      "kind": "units",
+      "units": "C:init",
+      "joining": "isol",
+      "glyph_names": [
+        "u183C.C.init._isol",
+        "uni183C.C.init._isol"
+      ],
+      "probes": [
+        {
+          "text": "ᠼ",
+          "glyph_index": 0,
+          "cluster": 0,
+          "end_cluster": 1
+        }
+      ]
+    },
+    {
+      "kind": "units",
+      "units": "C:medi",
+      "glyph_names": [
+        "u183C.C.medi",
+        "uni183C.C.medi"
+      ],
+      "probes": [
+        {
+          "text": "ᠰᠠᠼᠠᠯ",
+          "glyph_index": 2,
+          "cluster": 2,
+          "end_cluster": 3
+        }
+      ]
+    },
+    {
+      "kind": "units",
+      "units": "Ch:fina",
+      "glyph_names": [
+        "u1834.Ch.fina",
+        "uni1834.Ch.fina"
+      ],
+      "probes": [
+        {
+          "text": "ᠰᠠᠴ",
+          "glyph_index": 2,
+          "cluster": 2,
+          "end_cluster": 3
+        }
+      ]
+    },
+    {
+      "kind": "units",
+      "units": "Ch:init",
+      "glyph_names": [
+        "u1834.Ch.init",
+        "uni1834.Ch.init"
+      ],
+      "probes": [
+        {
+          "text": "ᠴᠠᠯ",
+          "glyph_index": 0,
+          "cluster": 0,
+          "end_cluster": 1
+        }
+      ]
+    },
+    {
+      "kind": "units",
+      "units": "Ch:init",
+      "joining": "isol",
+      "glyph_names": [
+        "u1834.Ch.init._isol",
+        "uni1834.Ch.init._isol"
+      ],
+      "probes": [
+        {
+          "text": "ᠴ",
+          "glyph_index": 0,
+          "cluster": 0,
+          "end_cluster": 1
+        }
+      ]
+    },
+    {
+      "kind": "units",
+      "units": "Ch:medi",
+      "glyph_names": [
+        "u1834.Ch.medi",
+        "uni1834.Ch.medi"
+      ],
+      "probes": [
+        {
+          "text": "ᠰᠠᠴᠠᠯ",
+          "glyph_index": 2,
+          "cluster": 2,
+          "end_cluster": 3
+        }
+      ]
+    },
+    {
+      "kind": "units",
+      "units": "Cr:init",
+      "glyph_names": [
+        "u1842.Cr.init",
+        "uni1842.Cr.init"
+      ],
+      "probes": [
+        {
+          "text": "ᡂᠠᠯ",
+          "glyph_index": 0,
+          "cluster": 0,
+          "end_cluster": 1
+        }
+      ]
+    },
+    {
+      "kind": "units",
+      "units": "Cr:init",
+      "joining": "fina",
+      "glyph_names": [
+        "u1842.Cr.init._fina",
+        "uni1842.Cr.init._fina"
+      ],
+      "probes": [
+        {
+          "text": "ᠰᠠᡂ",
+          "glyph_index": 2,
+          "cluster": 2,
+          "end_cluster": 3
+        }
+      ]
+    },
+    {
+      "kind": "units",
+      "units": "Cr:init",
+      "joining": "isol",
+      "glyph_names": [
+        "u1842.Cr.init._isol",
+        "uni1842.Cr.init._isol"
+      ],
+      "probes": [
+        {
+          "text": "ᡂ",
+          "glyph_index": 0,
+          "cluster": 0,
+          "end_cluster": 1
+        }
+      ]
+    },
+    {
+      "kind": "units",
+      "units": "Cr:init",
+      "joining": "medi",
+      "glyph_names": [
+        "u1842.Cr.medi",
+        "uni1842.Cr.medi"
+      ],
+      "probes": [
+        {
+          "text": "ᠰᠠᡂᠠᠯ",
+          "glyph_index": 2,
+          "cluster": 2,
+          "end_cluster": 3
+        }
+      ]
+    },
+    {
+      "kind": "units",
+      "units": "D:fina",
+      "glyph_names": [
+        "u1833.D.fina",
+        "uni1833.D.fina"
+      ],
+      "probes": [
+        {
+          "text": "ᠰᠠᠳ᠋",
+          "glyph_index": 2,
+          "cluster": 2,
+          "end_cluster": 4
+        }
+      ]
+    },
+    {
+      "kind": "units",
+      "units": "D:init",
+      "glyph_names": [
+        "u1833.D.init",
+        "uni1833.D.init"
+      ],
+      "probes": [
+        {
+          "text": "ᠮᠣᠩᠭᠣᠯ ᠳᠤ",
+          "glyph_index": 6,
+          "cluster": 7,
+          "end_cluster": 8
+        }
+      ]
+    },
+    {
+      "kind": "units",
+      "units": "D:init",
+      "joining": "isol",
+      "glyph_names": [
+        "u1833.D.init._isol",
+        "uni1833.D.init._isol"
+      ],
+      "probes": [
+        {
+          "text": "ᠳ",
+          "glyph_index": 0,
+          "cluster": 0,
+          "end_cluster": 1
+        }
+      ]
+    },
+    {
+      "kind": "units",
+      "units": "D:medi",
+      "glyph_names": [
+        "u1832.D.medi",
+        "u1833.D.medi",
+        "uni1832.D.medi",
+        "uni1833.D.medi"
+      ],
+      "probes": [
+        {
+          "text": "ᠰᠠᠲᠠᠯ",
+          "glyph_index": 2,
+          "cluster": 2,
+          "end_cluster": 3
+        },
+        {
+          "text": "ᠰᠠᠳᠠᠯ",
+          "glyph_index": 2,
+          "cluster": 2,
+          "end_cluster": 3
+        }
+      ]
+    },
+    {
+      "kind": "units",
+      "units": "Dd:fina",
+      "glyph_names": [
+        "u1833.Dd.fina",
+        "uni1833.Dd.fina"
+      ],
+      "probes": [
+        {
+          "text": "ᠰᠠᠳ",
+          "glyph_index": 2,
+          "cluster": 2,
+          "end_cluster": 3
+        }
+      ]
+    },
+    {
+      "kind": "units",
+      "units": "Dd:medi",
+      "glyph_names": [
+        "u1833.Dd.medi",
+        "uni1833.Dd.medi"
+      ],
+      "probes": [
+        {
+          "text": "ᠰᠠᠳᠨ",
+          "glyph_index": 2,
+          "cluster": 2,
+          "end_cluster": 3
+        }
+      ]
+    },
+    {
+      "kind": "units",
+      "units": "F:fina",
+      "glyph_names": [
+        "u1839.F.fina",
+        "uni1839.F.fina"
+      ],
+      "probes": [
+        {
+          "text": "ᠰᠠᠹ",
+          "glyph_index": 2,
+          "cluster": 2,
+          "end_cluster": 3
+        }
+      ]
+    },
+    {
+      "kind": "units",
+      "units": "F:init",
+      "glyph_names": [
+        "u1839.F.init",
+        "uni1839.F.init"
+      ],
+      "probes": [
+        {
+          "text": "ᠹᠮᠯ",
+          "glyph_index": 0,
+          "cluster": 0,
+          "end_cluster": 1
+        }
+      ]
+    },
+    {
+      "kind": "units",
+      "units": "F:init",
+      "joining": "isol",
+      "glyph_names": [
+        "u1839.F.init._isol",
+        "uni1839.F.init._isol"
+      ],
+      "probes": [
+        {
+          "text": "ᠹ",
+          "glyph_index": 0,
+          "cluster": 0,
+          "end_cluster": 1
+        }
+      ]
+    },
+    {
+      "kind": "units",
+      "units": "F:init A:medi",
+      "glyph_names": [
+        "FA.init"
+      ],
+      "probes": [
+        {
+          "text": "ᠹᠠᠯ",
+          "glyph_index": 0,
+          "cluster": 0,
+          "end_cluster": 2
+        }
+      ]
+    },
+    {
+      "kind": "units",
+      "units": "F:init Aa:fina",
+      "glyph_names": [
+        "FAa.isol"
+      ],
+      "probes": [
+        {
+          "text": "ᠹᠠ",
+          "glyph_index": 0,
+          "cluster": 0,
+          "end_cluster": 2
+        }
+      ]
+    },
+    {
+      "kind": "units",
+      "units": "F:init I:fina",
+      "glyph_names": [
+        "FI.isol"
+      ],
+      "probes": [
+        {
+          "text": "ᠹᠢ",
+          "glyph_index": 0,
+          "cluster": 0,
+          "end_cluster": 2
+        }
+      ]
+    },
+    {
+      "kind": "units",
+      "units": "F:init I:medi",
+      "glyph_names": [
+        "FI.init"
+      ],
+      "probes": [
+        {
+          "text": "ᠹᠢᠯ",
+          "glyph_index": 0,
+          "cluster": 0,
+          "end_cluster": 2
+        }
+      ]
+    },
+    {
+      "kind": "units",
+      "units": "F:init O:fina",
+      "glyph_names": [
+        "FO.isol"
+      ],
+      "probes": [
+        {
+          "text": "ᠹᠣ",
+          "glyph_index": 0,
+          "cluster": 0,
+          "end_cluster": 2
+        }
+      ]
+    },
+    {
+      "kind": "units",
+      "units": "F:init O:medi",
+      "glyph_names": [
+        "FO.init"
+      ],
+      "probes": [
+        {
+          "text": "ᠹᠣᠯ",
+          "glyph_index": 0,
+          "cluster": 0,
+          "end_cluster": 2
+        }
+      ]
+    },
+    {
+      "kind": "units",
+      "units": "F:init O:medi I:medi",
+      "glyph_names": [
+        "FOI.init"
+      ],
+      "probes": [
+        {
+          "text": "ᠹᠥᠯ",
+          "glyph_index": 0,
+          "cluster": 0,
+          "end_cluster": 2
+        }
+      ]
+    },
+    {
+      "kind": "units",
+      "units": "F:init Ue:fina",
+      "glyph_names": [
+        "FUe.isol"
+      ],
+      "probes": [
+        {
+          "text": "ᠹᠥ",
+          "glyph_index": 0,
+          "cluster": 0,
+          "end_cluster": 2
+        }
+      ]
+    },
+    {
+      "kind": "units",
+      "units": "F:init W:fina",
+      "glyph_names": [
+        "FW.isol"
+      ],
+      "probes": [
+        {
+          "text": "ᠹᠧ",
+          "glyph_index": 0,
+          "cluster": 0,
+          "end_cluster": 2
+        }
+      ]
+    },
+    {
+      "kind": "units",
+      "units": "F:init W:medi",
+      "glyph_names": [
+        "FW.init"
+      ],
+      "probes": [
+        {
+          "text": "ᠹᠧᠯ",
+          "glyph_index": 0,
+          "cluster": 0,
+          "end_cluster": 2
+        }
+      ]
+    },
+    {
+      "kind": "units",
+      "units": "F:medi",
+      "glyph_names": [
+        "u1839.F.medi",
+        "uni1839.F.medi"
+      ],
+      "probes": [
+        {
+          "text": "ᠰᠹᠮᠯ",
+          "glyph_index": 1,
+          "cluster": 1,
+          "end_cluster": 2
+        }
+      ]
+    },
+    {
+      "kind": "units",
+      "units": "F:medi A:medi",
+      "glyph_names": [
+        "FA.medi"
+      ],
+      "probes": [
+        {
+          "text": "ᠰᠠᠹᠠᠯ",
+          "glyph_index": 2,
+          "cluster": 2,
+          "end_cluster": 4
+        }
+      ]
+    },
+    {
+      "kind": "units",
+      "units": "F:medi Aa:fina",
+      "glyph_names": [
+        "FAa.fina"
+      ],
+      "probes": [
+        {
+          "text": "ᠰᠠᠹᠠ",
+          "glyph_index": 2,
+          "cluster": 2,
+          "end_cluster": 4
+        }
+      ]
+    },
+    {
+      "kind": "units",
+      "units": "F:medi I:fina",
+      "glyph_names": [
+        "FI.fina"
+      ],
+      "probes": [
+        {
+          "text": "ᠰᠠᠹᠢ",
+          "glyph_index": 2,
+          "cluster": 2,
+          "end_cluster": 4
+        }
+      ]
+    },
+    {
+      "kind": "units",
+      "units": "F:medi I:medi",
+      "glyph_names": [
+        "FI.medi"
+      ],
+      "probes": [
+        {
+          "text": "ᠰᠹᠢᠯ",
+          "glyph_index": 1,
+          "cluster": 1,
+          "end_cluster": 3
+        }
+      ]
+    },
+    {
+      "kind": "units",
+      "units": "F:medi O:fina",
+      "glyph_names": [
+        "FO.fina"
+      ],
+      "probes": [
+        {
+          "text": "ᠰᠠᠹᠣ",
+          "glyph_index": 2,
+          "cluster": 2,
+          "end_cluster": 4
+        }
+      ]
+    },
+    {
+      "kind": "units",
+      "units": "F:medi O:medi",
+      "glyph_names": [
+        "FO.medi"
+      ],
+      "probes": [
+        {
+          "text": "ᠰᠹᠣᠯ",
+          "glyph_index": 1,
+          "cluster": 1,
+          "end_cluster": 3
+        }
+      ]
+    },
+    {
+      "kind": "units",
+      "units": "F:medi O:medi I:medi",
+      "glyph_names": [
+        "FOI.medi"
+      ],
+      "probes": [
+        {
+          "text": "ᠰᠹᠥᠯ",
+          "glyph_index": 1,
+          "cluster": 1,
+          "end_cluster": 3
+        }
+      ]
+    },
+    {
+      "kind": "units",
+      "units": "F:medi Ue:fina",
+      "glyph_names": [
+        "FUe.fina"
+      ],
+      "probes": [
+        {
+          "text": "ᠰᠠᠹᠥ᠋",
+          "glyph_index": 2,
+          "cluster": 2,
+          "end_cluster": 5
+        }
+      ]
+    },
+    {
+      "kind": "units",
+      "units": "F:medi W:fina",
+      "glyph_names": [
+        "FW.fina"
+      ],
+      "probes": [
+        {
+          "text": "ᠰᠠᠹᠧ",
+          "glyph_index": 2,
+          "cluster": 2,
+          "end_cluster": 4
+        }
+      ]
+    },
+    {
+      "kind": "units",
+      "units": "F:medi W:medi",
+      "glyph_names": [
+        "FW.medi"
+      ],
+      "probes": [
+        {
+          "text": "ᠰᠹᠧᠯ",
+          "glyph_index": 1,
+          "cluster": 1,
+          "end_cluster": 3
+        }
+      ]
+    },
+    {
+      "kind": "units",
+      "units": "G:fina",
+      "glyph_names": [
+        "u182D.G.fina",
+        "uni182D.G.fina"
+      ],
+      "probes": [
+        {
+          "text": "ᠰᠡᠭ",
+          "glyph_index": 2,
+          "cluster": 2,
+          "end_cluster": 3
+        }
+      ]
+    },
+    {
+      "kind": "units",
+      "units": "G:init",
+      "glyph_names": [
+        "u182C.G.init",
+        "u182D.G.init",
+        "uni182C.G.init",
+        "uni182D.G.init"
+      ],
+      "probes": [
+        {
+          "text": "ᠬᠩ",
+          "glyph_index": 0,
+          "cluster": 0,
+          "end_cluster": 1
+        },
+        {
+          "text": "ᠭᠩ",
+          "glyph_index": 0,
+          "cluster": 0,
+          "end_cluster": 1
+        }
+      ]
+    },
+    {
+      "kind": "units",
+      "units": "G:init",
+      "joining": "isol",
+      "glyph_names": [
+        "u182C.G.init._isol",
+        "u182D.G.init._isol",
+        "uni182C.G.init._isol",
+        "uni182D.G.init._isol"
+      ],
+      "probes": [
+        {
+          "text": "ᠬ᠌",
+          "glyph_index": 0,
+          "cluster": 0,
+          "end_cluster": 2
+        },
+        {
+          "text": "ᠭ᠌",
+          "glyph_index": 0,
+          "cluster": 0,
+          "end_cluster": 2
+        }
+      ]
+    },
+    {
+      "kind": "units",
+      "units": "G:init A:medi",
+      "glyph_names": [
+        "GA.init"
+      ],
+      "probes": [
+        {
+          "text": "ᠬᠡᠯ",
+          "glyph_index": 0,
+          "cluster": 0,
+          "end_cluster": 2
+        }
+      ]
+    },
+    {
+      "kind": "units",
+      "units": "G:init Aa:fina",
+      "glyph_names": [
+        "GAa.isol"
+      ],
+      "probes": [
+        {
+          "text": "ᠬᠡ",
+          "glyph_index": 0,
+          "cluster": 0,
+          "end_cluster": 2
+        }
+      ]
+    },
+    {
+      "kind": "units",
+      "units": "G:init I:fina",
+      "glyph_names": [
+        "GI.isol"
+      ],
+      "probes": [
+        {
+          "text": "ᠬᠢ",
+          "glyph_index": 0,
+          "cluster": 0,
+          "end_cluster": 2
+        }
+      ]
+    },
+    {
+      "kind": "units",
+      "units": "G:init I:medi",
+      "glyph_names": [
+        "GI.init"
+      ],
+      "probes": [
+        {
+          "text": "ᠬᠢᠯ",
+          "glyph_index": 0,
+          "cluster": 0,
+          "end_cluster": 2
+        }
+      ]
+    },
+    {
+      "kind": "units",
+      "units": "G:init L:medi",
+      "glyph_names": [
+        "GL.init"
+      ],
+      "probes": [
+        {
+          "text": "ᠬᠯᠯ",
+          "glyph_index": 0,
+          "cluster": 0,
+          "end_cluster": 2
+        }
+      ]
+    },
+    {
+      "kind": "units",
+      "units": "G:init M:medi",
+      "glyph_names": [
+        "GM.init"
+      ],
+      "probes": [
+        {
+          "text": "ᠬᠮᠯ",
+          "glyph_index": 0,
+          "cluster": 0,
+          "end_cluster": 2
+        }
+      ]
+    },
+    {
+      "kind": "units",
+      "units": "G:init O:fina",
+      "glyph_names": [
+        "GO.isol"
+      ]
+    },
+    {
+      "kind": "units",
+      "units": "G:init O:medi",
+      "glyph_names": [
+        "GO.init"
+      ]
+    },
+    {
+      "kind": "units",
+      "units": "G:init O:medi I:medi",
+      "glyph_names": [
+        "GOI.init"
+      ],
+      "probes": [
+        {
+          "text": "ᠬᠥᠯ",
+          "glyph_index": 0,
+          "cluster": 0,
+          "end_cluster": 2
+        }
+      ]
+    },
+    {
+      "kind": "units",
+      "units": "G:init Ue:fina",
+      "glyph_names": [
+        "GUe.isol"
+      ],
+      "probes": [
+        {
+          "text": "ᠬᠥ",
+          "glyph_index": 0,
+          "cluster": 0,
+          "end_cluster": 2
+        }
+      ]
+    },
+    {
+      "kind": "units",
+      "units": "G:init W:fina",
+      "glyph_names": [
+        "GW.isol"
+      ],
+      "probes": [
+        {
+          "text": "ᠬᠧ",
+          "glyph_index": 0,
+          "cluster": 0,
+          "end_cluster": 2
+        }
+      ]
+    },
+    {
+      "kind": "units",
+      "units": "G:init W:medi",
+      "glyph_names": [
+        "GW.init"
+      ],
+      "probes": [
+        {
+          "text": "ᠬᠧᠯ",
+          "glyph_index": 0,
+          "cluster": 0,
+          "end_cluster": 2
+        }
+      ]
+    },
+    {
+      "kind": "units",
+      "units": "G:medi",
+      "glyph_names": [
+        "u182C.G.medi",
+        "u182D.G.medi",
+        "uni182C.G.medi",
+        "uni182D.G.medi"
+      ],
+      "probes": [
+        {
+          "text": "ᠰᠬᠩᠯ",
+          "glyph_index": 1,
+          "cluster": 1,
+          "end_cluster": 2
+        },
+        {
+          "text": "ᠰᠭᠩᠯ",
+          "glyph_index": 1,
+          "cluster": 1,
+          "end_cluster": 2
+        }
+      ]
+    },
+    {
+      "kind": "units",
+      "units": "G:medi A:medi",
+      "glyph_names": [
+        "GA.medi"
+      ],
+      "probes": [
+        {
+          "text": "ᠰᠡᠬᠡᠯ",
+          "glyph_index": 2,
+          "cluster": 2,
+          "end_cluster": 4
+        }
+      ]
+    },
+    {
+      "kind": "units",
+      "units": "G:medi Aa:fina",
+      "glyph_names": [
+        "GAa.fina"
+      ],
+      "probes": [
+        {
+          "text": "ᠡᠬᠡ ᠶᠢᠨ",
+          "glyph_index": 1,
+          "cluster": 1,
+          "end_cluster": 3
+        }
+      ]
+    },
+    {
+      "kind": "units",
+      "units": "G:medi I:fina",
+      "glyph_names": [
+        "GI.fina"
+      ],
+      "probes": [
+        {
+          "text": "ᠰᠠᠬᠢ",
+          "glyph_index": 2,
+          "cluster": 2,
+          "end_cluster": 4
+        }
+      ]
+    },
+    {
+      "kind": "units",
+      "units": "G:medi I:medi",
+      "glyph_names": [
+        "GI.medi"
+      ],
+      "probes": [
+        {
+          "text": "ᠰᠬᠢᠯ",
+          "glyph_index": 1,
+          "cluster": 1,
+          "end_cluster": 3
+        }
+      ]
+    },
+    {
+      "kind": "units",
+      "units": "G:medi L:medi",
+      "glyph_names": [
+        "GL.medi"
+      ],
+      "probes": [
+        {
+          "text": "ᠰᠬᠯᠯ",
+          "glyph_index": 1,
+          "cluster": 1,
+          "end_cluster": 3
+        }
+      ]
+    },
+    {
+      "kind": "units",
+      "units": "G:medi M:medi",
+      "glyph_names": [
+        "GM.medi"
+      ],
+      "probes": [
+        {
+          "text": "ᠰᠬᠮᠯ",
+          "glyph_index": 1,
+          "cluster": 1,
+          "end_cluster": 3
+        }
+      ]
+    },
+    {
+      "kind": "units",
+      "units": "G:medi O:fina",
+      "glyph_names": [
+        "GO.fina"
+      ],
+      "probes": [
+        {
+          "text": "ᠰᠠᠬᠥ",
+          "glyph_index": 2,
+          "cluster": 2,
+          "end_cluster": 4
+        }
+      ]
+    },
+    {
+      "kind": "units",
+      "units": "G:medi O:medi",
+      "glyph_names": [
+        "GO.medi"
+      ],
+      "probes": [
+        {
+          "text": "ᠰᠠᠬᠦᠢ",
+          "glyph_index": 2,
+          "cluster": 2,
+          "end_cluster": 4
+        }
+      ]
+    },
+    {
+      "kind": "units",
+      "units": "G:medi O:medi I:medi",
+      "glyph_names": [
+        "GOI.medi"
+      ],
+      "probes": [
+        {
+          "text": "ᠰᠬᠥᠯ",
+          "glyph_index": 1,
+          "cluster": 1,
+          "end_cluster": 3
+        }
+      ]
+    },
+    {
+      "kind": "units",
+      "units": "G:medi Ue:fina",
+      "glyph_names": [
+        "GUe.fina"
+      ],
+      "probes": [
+        {
+          "text": "ᠰᠠᠬᠥ᠋",
+          "glyph_index": 2,
+          "cluster": 2,
+          "end_cluster": 5
+        }
+      ]
+    },
+    {
+      "kind": "units",
+      "units": "G:medi W:fina",
+      "glyph_names": [
+        "GW.fina"
+      ],
+      "probes": [
+        {
+          "text": "ᠰᠠᠬᠧ",
+          "glyph_index": 2,
+          "cluster": 2,
+          "end_cluster": 4
+        }
+      ]
+    },
+    {
+      "kind": "units",
+      "units": "G:medi W:medi",
+      "glyph_names": [
+        "GW.medi"
+      ],
+      "probes": [
+        {
+          "text": "ᠰᠬᠧᠯ",
+          "glyph_index": 1,
+          "cluster": 1,
+          "end_cluster": 3
+        }
+      ]
+    },
+    {
+      "kind": "units",
+      "units": "Gx:init",
+      "glyph_names": [
+        "u182C.Gx.init",
+        "u182D.Gx.init",
+        "uni182C.Gx.init",
+        "uni182D.Gx.init"
+      ]
+    },
+    {
+      "kind": "units",
+      "units": "Gx:init",
+      "joining": "isol",
+      "glyph_names": [
+        "u182C.Gx.init._isol",
+        "u182D.Gx.init._isol",
+        "uni182C.Gx.init._isol",
+        "uni182D.Gx.init._isol"
+      ],
+      "probes": [
+        {
+          "text": "ᠬ᠏",
+          "glyph_index": 0,
+          "cluster": 0,
+          "end_cluster": 2
+        },
+        {
+          "text": "ᠭ᠏",
+          "glyph_index": 0,
+          "cluster": 0,
+          "end_cluster": 2
+        }
+      ]
+    },
+    {
+      "kind": "units",
+      "units": "Gx:init A:medi",
+      "glyph_names": [
+        "GxA.init"
+      ],
+      "probes": [
+        {
+          "text": "ᠬ᠏ᠡᠯ",
+          "glyph_index": 0,
+          "cluster": 0,
+          "end_cluster": 3
+        }
+      ]
+    },
+    {
+      "kind": "units",
+      "units": "Gx:init Aa:fina",
+      "glyph_names": [
+        "GxAa.isol"
+      ]
+    },
+    {
+      "kind": "units",
+      "units": "Gx:init I:fina",
+      "glyph_names": [
+        "GxI.isol"
+      ]
+    },
+    {
+      "kind": "units",
+      "units": "Gx:init I:medi",
+      "glyph_names": [
+        "GxI.init"
+      ]
+    },
+    {
+      "kind": "units",
+      "units": "Gx:init O:fina",
+      "glyph_names": [
+        "GxO.isol"
+      ]
+    },
+    {
+      "kind": "units",
+      "units": "Gx:init O:medi",
+      "glyph_names": [
+        "GxO.init"
+      ]
+    },
+    {
+      "kind": "units",
+      "units": "Gx:init O:medi I:medi",
+      "glyph_names": [
+        "GxOI.init"
+      ]
+    },
+    {
+      "kind": "units",
+      "units": "Gx:init Ue:fina",
+      "glyph_names": [
+        "GxUe.isol"
+      ]
+    },
+    {
+      "kind": "units",
+      "units": "Gx:init W:fina",
+      "glyph_names": [
+        "GxW.isol"
+      ]
+    },
+    {
+      "kind": "units",
+      "units": "Gx:init W:medi",
+      "glyph_names": [
+        "GxW.init"
+      ]
+    },
+    {
+      "kind": "units",
+      "units": "Gx:medi",
+      "glyph_names": [
+        "u182C.Gx.medi",
+        "u182D.Gx.medi",
+        "uni182C.Gx.medi",
+        "uni182D.Gx.medi"
+      ]
+    },
+    {
+      "kind": "units",
+      "units": "Gx:medi A:medi",
+      "glyph_names": [
+        "GxA.medi"
+      ],
+      "probes": [
+        {
+          "text": "ᠰᠡᠬ᠏ᠡᠯ",
+          "glyph_index": 2,
+          "cluster": 2,
+          "end_cluster": 5
+        }
+      ]
+    },
+    {
+      "kind": "units",
+      "units": "Gx:medi Aa:fina",
+      "glyph_names": [
+        "GxAa.fina"
+      ]
+    },
+    {
+      "kind": "units",
+      "units": "Gx:medi I:fina",
+      "glyph_names": [
+        "GxI.fina"
+      ]
+    },
+    {
+      "kind": "units",
+      "units": "Gx:medi I:medi",
+      "glyph_names": [
+        "GxI.medi"
+      ]
+    },
+    {
+      "kind": "units",
+      "units": "Gx:medi O:fina",
+      "glyph_names": [
+        "GxO.fina"
+      ]
+    },
+    {
+      "kind": "units",
+      "units": "Gx:medi O:medi",
+      "glyph_names": [
+        "GxO.medi"
+      ]
+    },
+    {
+      "kind": "units",
+      "units": "Gx:medi O:medi I:medi",
+      "glyph_names": [
+        "GxOI.medi"
+      ]
+    },
+    {
+      "kind": "units",
+      "units": "Gx:medi Ue:fina",
+      "glyph_names": [
+        "GxUe.fina"
+      ]
+    },
+    {
+      "kind": "units",
+      "units": "Gx:medi W:fina",
+      "glyph_names": [
+        "GxW.fina"
+      ]
+    },
+    {
+      "kind": "units",
+      "units": "Gx:medi W:medi",
+      "glyph_names": [
+        "GxW.medi"
+      ]
+    },
+    {
+      "kind": "units",
+      "units": "H:fina",
+      "glyph_names": [
+        "u182C.H.fina",
+        "u182D.H.fina",
+        "uni182C.H.fina",
+        "uni182D.H.fina"
+      ],
+      "probes": [
+        {
+          "text": "ᠰᠠᠬ",
+          "glyph_index": 2,
+          "cluster": 2,
+          "end_cluster": 3
+        },
+        {
+          "text": "ᠰᠠᠭ",
+          "glyph_index": 2,
+          "cluster": 2,
+          "end_cluster": 3
+        }
+      ]
+    },
+    {
+      "kind": "units",
+      "units": "H:init",
+      "glyph_names": [
+        "u182C.H.init",
+        "u182D.H.init",
+        "uni182C.H.init",
+        "uni182D.H.init"
+      ],
+      "probes": [
+        {
+          "text": "ᠬᠠᠯ",
+          "glyph_index": 0,
+          "cluster": 0,
+          "end_cluster": 1
+        },
+        {
+          "text": "ᠭ᠋ᠠ",
+          "glyph_index": 0,
+          "cluster": 0,
+          "end_cluster": 2
+        }
+      ]
+    },
+    {
+      "kind": "units",
+      "units": "H:init",
+      "joining": "isol",
+      "glyph_names": [
+        "u182C.H.init._isol",
+        "u182D.H.init._isol",
+        "uni182C.H.init._isol",
+        "uni182D.H.init._isol"
+      ],
+      "probes": [
+        {
+          "text": "ᠬ",
+          "glyph_index": 0,
+          "cluster": 0,
+          "end_cluster": 1
+        },
+        {
+          "text": "ᠭ᠋",
+          "glyph_index": 0,
+          "cluster": 0,
+          "end_cluster": 2
+        }
+      ]
+    },
+    {
+      "kind": "units",
+      "units": "H:medi",
+      "glyph_names": [
+        "u182C.H.medi",
+        "u182D.H.medi",
+        "uni182C.H.medi",
+        "uni182D.H.medi"
+      ],
+      "probes": [
+        {
+          "text": "ᠰᠠᠬᠠᠯ",
+          "glyph_index": 2,
+          "cluster": 2,
+          "end_cluster": 3
+        },
+        {
+          "text": "ᠰᠠᠭᠨ",
+          "glyph_index": 2,
+          "cluster": 2,
+          "end_cluster": 3
+        }
+      ]
+    },
+    {
+      "kind": "units",
+      "units": "Hr:fina",
+      "glyph_names": [
+        "u183E.Hr.fina",
+        "uni183E.Hr.fina"
+      ],
+      "probes": [
+        {
+          "text": "ᠰᠠᠾ",
+          "glyph_index": 2,
+          "cluster": 2,
+          "end_cluster": 3
+        }
+      ]
+    },
+    {
+      "kind": "units",
+      "units": "Hr:medi",
+      "glyph_names": [
+        "u183E.Hr.medi",
+        "uni183E.Hr.medi"
+      ],
+      "probes": [
+        {
+          "text": "ᠰᠠᠾᠠᠯ",
+          "glyph_index": 2,
+          "cluster": 2,
+          "end_cluster": 3
+        }
+      ]
+    },
+    {
+      "kind": "units",
+      "units": "Hx:fina",
+      "glyph_names": [
+        "Hx.fina.mvs",
+        "u182C.Hx.fina",
+        "u182D.Hx.fina",
+        "uni182C.Hx.fina",
+        "uni182D.Hx.fina"
+      ],
+      "probes": [
+        {
+          "text": "ᠰᠠᠬ᠋",
+          "glyph_index": 2,
+          "cluster": 2,
+          "end_cluster": 4
+        },
+        {
+          "text": "ᠰᠠᠭ᠍",
+          "glyph_index": 2,
+          "cluster": 2,
+          "end_cluster": 4
+        },
+        {
+          "text": "ᠠᠭ᠎ᠠ",
+          "glyph_index": 1,
+          "cluster": 1,
+          "end_cluster": 2
+        }
+      ]
+    },
+    {
+      "kind": "units",
+      "units": "Hx:init",
+      "glyph_names": [
+        "u182C.Hx.init",
+        "u182D.Hx.init",
+        "uni182C.Hx.init",
+        "uni182D.Hx.init"
+      ],
+      "probes": [
+        {
+          "text": "ᠬ᠋ᠠ",
+          "glyph_index": 0,
+          "cluster": 0,
+          "end_cluster": 2
+        },
+        {
+          "text": "ᠭᠠᠯ",
+          "glyph_index": 0,
+          "cluster": 0,
+          "end_cluster": 1
+        }
+      ]
+    },
+    {
+      "kind": "units",
+      "units": "Hx:init",
+      "joining": "isol",
+      "glyph_names": [
+        "u182C.Hx.init._isol",
+        "u182D.Hx.init._isol",
+        "uni182C.Hx.init._isol",
+        "uni182D.Hx.init._isol"
+      ],
+      "probes": [
+        {
+          "text": "ᠬ᠋",
+          "glyph_index": 0,
+          "cluster": 0,
+          "end_cluster": 2
+        },
+        {
+          "text": "ᠭ",
+          "glyph_index": 0,
+          "cluster": 0,
+          "end_cluster": 1
+        }
+      ]
+    },
+    {
+      "kind": "units",
+      "units": "Hx:medi",
+      "glyph_names": [
+        "u182C.Hx.medi",
+        "u182D.Hx.medi",
+        "uni182C.Hx.medi",
+        "uni182D.Hx.medi"
+      ],
+      "probes": [
+        {
+          "text": "ᠰᠬ᠋ᠠᠯ",
+          "glyph_index": 1,
+          "cluster": 1,
+          "end_cluster": 3
+        },
+        {
+          "text": "ᠰᠠᠭᠠᠯ",
+          "glyph_index": 2,
+          "cluster": 2,
+          "end_cluster": 3
+        }
+      ]
+    },
+    {
+      "kind": "units",
+      "units": "I:fina",
+      "glyph_names": [
+        "u1822.I.fina",
+        "u1835.I.fina",
+        "u1836.I.fina",
+        "uni1822.I.fina",
+        "uni1835.I.fina",
+        "uni1836.I.fina"
+      ],
+      "probes": [
+        {
+          "text": "ᠰᠠᠢ",
+          "glyph_index": 2,
+          "cluster": 2,
+          "end_cluster": 3
+        },
+        {
+          "text": "ᠠᠵ᠎ᠠ",
+          "glyph_index": 1,
+          "cluster": 1,
+          "end_cluster": 2
+        },
+        {
+          "text": "ᠰᠠᠶ",
+          "glyph_index": 2,
+          "cluster": 2,
+          "end_cluster": 3
+        }
+      ]
+    },
+    {
+      "kind": "units",
+      "units": "I:init",
+      "glyph_names": [
+        "u1822.I.init",
+        "u1835.I.init",
+        "u1836.I.init",
+        "uni1822.I.init",
+        "uni1835.I.init",
+        "uni1836.I.init"
+      ],
+      "probes": [
+        {
+          "text": "ᠭᠠᠷ ᠢᠶᠠᠷ",
+          "glyph_index": 4,
+          "cluster": 4,
+          "end_cluster": 5
+        },
+        {
+          "text": "ᠵᠠᠯ",
+          "glyph_index": 0,
+          "cluster": 0,
+          "end_cluster": 1
+        },
+        {
+          "text": "ᠠᠬᠠ ᠶᠢᠨ",
+          "glyph_index": 4,
+          "cluster": 4,
+          "end_cluster": 5
+        }
+      ]
+    },
+    {
+      "kind": "units",
+      "units": "I:init",
+      "joining": "isol",
+      "glyph_names": [
+        "u1835.I.init._isol",
+        "u1836.I.init._isol",
+        "uni1835.I.init._isol",
+        "uni1836.I.init._isol"
+      ],
+      "probes": [
+        {
+          "text": "ᠵ",
+          "glyph_index": 0,
+          "cluster": 0,
+          "end_cluster": 1
+        },
+        {
+          "text": "ᠶ᠋",
+          "glyph_index": 0,
+          "cluster": 0,
+          "end_cluster": 2
+        }
+      ]
+    },
+    {
+      "kind": "units",
+      "units": "I:isol",
+      "glyph_names": [
+        "u1822.I.isol",
+        "u1835.I.isol",
+        "uni1822.I.isol",
+        "uni1835.I.isol"
+      ],
+      "probes": [
+        {
+          "text": "ᠮᠣᠩᠭᠣᠯ ᠢ",
+          "glyph_index": 6,
+          "cluster": 7,
+          "end_cluster": 8
+        },
+        {
+          "text": "ᠵ᠋",
+          "glyph_index": 0,
+          "cluster": 0,
+          "end_cluster": 2
+        }
+      ]
+    },
+    {
+      "kind": "units",
+      "units": "I:medi",
+      "glyph_names": [
+        "u1822.I.medi",
+        "u1836.I.medi",
+        "uni1822.I.medi",
+        "uni1836.I.medi"
+      ],
+      "probes": [
+        {
+          "text": "ᠰᠢᠨ᠎ᠠ",
+          "glyph_index": 1,
+          "cluster": 1,
+          "end_cluster": 2
+        },
+        {
+          "text": "ᠭᠠᠷ ᠢᠶᠠᠷ",
+          "glyph_index": 5,
+          "cluster": 5,
+          "end_cluster": 6
+        }
+      ]
+    },
+    {
+      "kind": "units",
+      "units": "I:medi I:medi",
+      "glyph_names": [
+        "u1822.II.medi",
+        "u1836.II.medi",
+        "uni1822.II.medi",
+        "uni1836.II.medi"
+      ],
+      "probes": [
+        {
+          "text": "ᠰᠠᠢᠠᠯ",
+          "glyph_index": 2,
+          "cluster": 2,
+          "end_cluster": 3
+        },
+        {
+          "text": "ᠰᠠᠶ᠌ᠠᠯ",
+          "glyph_index": 2,
+          "cluster": 2,
+          "end_cluster": 4
+        }
+      ]
+    },
+    {
+      "kind": "units",
+      "units": "Ix:isol",
+      "glyph_names": [
+        "u1822.Ix.isol",
+        "uni1822.Ix.isol"
+      ],
+      "probes": [
+        {
+          "text": "ᠢ᠌",
+          "glyph_index": 0,
+          "cluster": 0,
+          "end_cluster": 2
+        }
+      ]
+    },
+    {
+      "kind": "units",
+      "units": "J:fina",
+      "glyph_names": [
+        "u1835.J.fina",
+        "uni1835.J.fina"
+      ],
+      "probes": [
+        {
+          "text": "ᠰᠠᠵ",
+          "glyph_index": 2,
+          "cluster": 2,
+          "end_cluster": 3
+        }
+      ]
+    },
+    {
+      "kind": "units",
+      "units": "J:medi",
+      "glyph_names": [
+        "u1835.J.medi",
+        "uni1835.J.medi"
+      ],
+      "probes": [
+        {
+          "text": "ᠰᠠᠵᠠᠯ",
+          "glyph_index": 2,
+          "cluster": 2,
+          "end_cluster": 3
+        }
+      ]
+    },
+    {
+      "kind": "units",
+      "units": "K2:fina",
+      "glyph_names": [
+        "u183A.K2.fina",
+        "u183A.K2Vi.fina",
+        "uni183A.K2.fina",
+        "uni183A.K2Vi.fina"
+      ],
+      "probes": [
+        {
+          "text": "ᠰᠠᠺ",
+          "glyph_index": 2,
+          "cluster": 2,
+          "end_cluster": 3
+        },
+        {
+          "text": "ᠰᠠᠺ᠋",
+          "glyph_index": 2,
+          "cluster": 2,
+          "end_cluster": 4
+        }
+      ]
+    },
+    {
+      "kind": "units",
+      "units": "K2:init",
+      "glyph_names": [
+        "u183A.K2.init",
+        "uni183A.K2.init"
+      ],
+      "probes": [
+        {
+          "text": "ᠺᠮᠯ",
+          "glyph_index": 0,
+          "cluster": 0,
+          "end_cluster": 1
+        }
+      ]
+    },
+    {
+      "kind": "units",
+      "units": "K2:init",
+      "joining": "isol",
+      "glyph_names": [
+        "u183A.K2.init._isol",
+        "uni183A.K2.init._isol"
+      ],
+      "probes": [
+        {
+          "text": "ᠺ",
+          "glyph_index": 0,
+          "cluster": 0,
+          "end_cluster": 1
+        }
+      ]
+    },
+    {
+      "kind": "units",
+      "units": "K2:init A:medi",
+      "glyph_names": [
+        "K2A.init"
+      ],
+      "probes": [
+        {
+          "text": "ᠺᠠᠯ",
+          "glyph_index": 0,
+          "cluster": 0,
+          "end_cluster": 2
+        }
+      ]
+    },
+    {
+      "kind": "units",
+      "units": "K2:init Aa:fina",
+      "glyph_names": [
+        "K2Aa.isol"
+      ],
+      "probes": [
+        {
+          "text": "ᠺᠠ",
+          "glyph_index": 0,
+          "cluster": 0,
+          "end_cluster": 2
+        }
+      ]
+    },
+    {
+      "kind": "units",
+      "units": "K2:init I:fina",
+      "glyph_names": [
+        "K2I.isol"
+      ],
+      "probes": [
+        {
+          "text": "ᠺᠢ",
+          "glyph_index": 0,
+          "cluster": 0,
+          "end_cluster": 2
+        }
+      ]
+    },
+    {
+      "kind": "units",
+      "units": "K2:init I:medi",
+      "glyph_names": [
+        "K2I.init"
+      ],
+      "probes": [
+        {
+          "text": "ᠺᠢᠯ",
+          "glyph_index": 0,
+          "cluster": 0,
+          "end_cluster": 2
+        }
+      ]
+    },
+    {
+      "kind": "units",
+      "units": "K2:init O:fina",
+      "glyph_names": [
+        "K2O.isol"
+      ],
+      "probes": [
+        {
+          "text": "ᠺᠣ",
+          "glyph_index": 0,
+          "cluster": 0,
+          "end_cluster": 2
+        }
+      ]
+    },
+    {
+      "kind": "units",
+      "units": "K2:init O:medi",
+      "glyph_names": [
+        "K2O.init"
+      ],
+      "probes": [
+        {
+          "text": "ᠺᠣᠯ",
+          "glyph_index": 0,
+          "cluster": 0,
+          "end_cluster": 2
+        }
+      ]
+    },
+    {
+      "kind": "units",
+      "units": "K2:init O:medi I:medi",
+      "glyph_names": [
+        "K2OI.init"
+      ],
+      "probes": [
+        {
+          "text": "ᠺᠥᠯ",
+          "glyph_index": 0,
+          "cluster": 0,
+          "end_cluster": 2
+        }
+      ]
+    },
+    {
+      "kind": "units",
+      "units": "K2:init Ue:fina",
+      "glyph_names": [
+        "K2Ue.isol"
+      ],
+      "probes": [
+        {
+          "text": "ᠺᠥ",
+          "glyph_index": 0,
+          "cluster": 0,
+          "end_cluster": 2
+        }
+      ]
+    },
+    {
+      "kind": "units",
+      "units": "K2:init W:fina",
+      "glyph_names": [
+        "K2W.isol"
+      ],
+      "probes": [
+        {
+          "text": "ᠺᠧ",
+          "glyph_index": 0,
+          "cluster": 0,
+          "end_cluster": 2
+        }
+      ]
+    },
+    {
+      "kind": "units",
+      "units": "K2:init W:medi",
+      "glyph_names": [
+        "K2W.init"
+      ],
+      "probes": [
+        {
+          "text": "ᠺᠧᠯ",
+          "glyph_index": 0,
+          "cluster": 0,
+          "end_cluster": 2
+        }
+      ]
+    },
+    {
+      "kind": "units",
+      "units": "K2:medi",
+      "glyph_names": [
+        "u183A.K2.medi",
+        "uni183A.K2.medi"
+      ],
+      "probes": [
+        {
+          "text": "ᠰᠺᠮᠯ",
+          "glyph_index": 1,
+          "cluster": 1,
+          "end_cluster": 2
+        }
+      ]
+    },
+    {
+      "kind": "units",
+      "units": "K2:medi A:medi",
+      "glyph_names": [
+        "K2A.medi"
+      ],
+      "probes": [
+        {
+          "text": "ᠰᠠᠺᠠᠯ",
+          "glyph_index": 2,
+          "cluster": 2,
+          "end_cluster": 4
+        }
+      ]
+    },
+    {
+      "kind": "units",
+      "units": "K2:medi Aa:fina",
+      "glyph_names": [
+        "K2Aa.fina"
+      ],
+      "probes": [
+        {
+          "text": "ᠰᠠᠺᠠ",
+          "glyph_index": 2,
+          "cluster": 2,
+          "end_cluster": 4
+        }
+      ]
+    },
+    {
+      "kind": "units",
+      "units": "K2:medi I:fina",
+      "glyph_names": [
+        "K2I.fina"
+      ],
+      "probes": [
+        {
+          "text": "ᠰᠠᠺᠢ",
+          "glyph_index": 2,
+          "cluster": 2,
+          "end_cluster": 4
+        }
+      ]
+    },
+    {
+      "kind": "units",
+      "units": "K2:medi I:medi",
+      "glyph_names": [
+        "K2I.medi"
+      ],
+      "probes": [
+        {
+          "text": "ᠰᠺᠢᠯ",
+          "glyph_index": 1,
+          "cluster": 1,
+          "end_cluster": 3
+        }
+      ]
+    },
+    {
+      "kind": "units",
+      "units": "K2:medi O:fina",
+      "glyph_names": [
+        "K2O.fina"
+      ],
+      "probes": [
+        {
+          "text": "ᠰᠠᠺᠣ",
+          "glyph_index": 2,
+          "cluster": 2,
+          "end_cluster": 4
+        }
+      ]
+    },
+    {
+      "kind": "units",
+      "units": "K2:medi O:medi",
+      "glyph_names": [
+        "K2O.medi"
+      ],
+      "probes": [
+        {
+          "text": "ᠰᠺᠣᠯ",
+          "glyph_index": 1,
+          "cluster": 1,
+          "end_cluster": 3
+        }
+      ]
+    },
+    {
+      "kind": "units",
+      "units": "K2:medi O:medi I:medi",
+      "glyph_names": [
+        "K2OI.medi"
+      ],
+      "probes": [
+        {
+          "text": "ᠰᠺᠥᠯ",
+          "glyph_index": 1,
+          "cluster": 1,
+          "end_cluster": 3
+        }
+      ]
+    },
+    {
+      "kind": "units",
+      "units": "K2:medi Ue:fina",
+      "glyph_names": [
+        "K2Ue.fina"
+      ],
+      "probes": [
+        {
+          "text": "ᠰᠠᠺᠥ᠋",
+          "glyph_index": 2,
+          "cluster": 2,
+          "end_cluster": 5
+        }
+      ]
+    },
+    {
+      "kind": "units",
+      "units": "K2:medi W:fina",
+      "glyph_names": [
+        "K2W.fina"
+      ],
+      "probes": [
+        {
+          "text": "ᠰᠠᠺᠧ",
+          "glyph_index": 2,
+          "cluster": 2,
+          "end_cluster": 4
+        }
+      ]
+    },
+    {
+      "kind": "units",
+      "units": "K2:medi W:medi",
+      "glyph_names": [
+        "K2W.medi"
+      ],
+      "probes": [
+        {
+          "text": "ᠰᠺᠧᠯ",
+          "glyph_index": 1,
+          "cluster": 1,
+          "end_cluster": 3
+        }
+      ]
+    },
+    {
+      "kind": "units",
+      "units": "K:fina",
+      "glyph_names": [
+        "u183B.K.fina",
+        "uni183B.K.fina"
+      ],
+      "probes": [
+        {
+          "text": "ᠰᠠᠻ",
+          "glyph_index": 2,
+          "cluster": 2,
+          "end_cluster": 3
+        }
+      ]
+    },
+    {
+      "kind": "units",
+      "units": "K:init",
+      "glyph_names": [
+        "u183B.K.init",
+        "uni183B.K.init"
+      ],
+      "probes": [
+        {
+          "text": "ᠻᠮᠯ",
+          "glyph_index": 0,
+          "cluster": 0,
+          "end_cluster": 1
+        }
+      ]
+    },
+    {
+      "kind": "units",
+      "units": "K:init",
+      "joining": "isol",
+      "glyph_names": [
+        "u183B.K.init._isol",
+        "uni183B.K.init._isol"
+      ],
+      "probes": [
+        {
+          "text": "ᠻ",
+          "glyph_index": 0,
+          "cluster": 0,
+          "end_cluster": 1
+        }
+      ]
+    },
+    {
+      "kind": "units",
+      "units": "K:init A:medi",
+      "glyph_names": [
+        "KA.init"
+      ],
+      "probes": [
+        {
+          "text": "ᠻᠠᠯ",
+          "glyph_index": 0,
+          "cluster": 0,
+          "end_cluster": 2
+        }
+      ]
+    },
+    {
+      "kind": "units",
+      "units": "K:init Aa:fina",
+      "glyph_names": [
+        "KAa.isol"
+      ],
+      "probes": [
+        {
+          "text": "ᠻᠠ",
+          "glyph_index": 0,
+          "cluster": 0,
+          "end_cluster": 2
+        }
+      ]
+    },
+    {
+      "kind": "units",
+      "units": "K:init I:fina",
+      "glyph_names": [
+        "KI.isol"
+      ],
+      "probes": [
+        {
+          "text": "ᠻᠢ",
+          "glyph_index": 0,
+          "cluster": 0,
+          "end_cluster": 2
+        }
+      ]
+    },
+    {
+      "kind": "units",
+      "units": "K:init I:medi",
+      "glyph_names": [
+        "KI.init"
+      ],
+      "probes": [
+        {
+          "text": "ᠻᠢᠯ",
+          "glyph_index": 0,
+          "cluster": 0,
+          "end_cluster": 2
+        }
+      ]
+    },
+    {
+      "kind": "units",
+      "units": "K:init O:fina",
+      "glyph_names": [
+        "KO.isol"
+      ],
+      "probes": [
+        {
+          "text": "ᠻᠣ",
+          "glyph_index": 0,
+          "cluster": 0,
+          "end_cluster": 2
+        }
+      ]
+    },
+    {
+      "kind": "units",
+      "units": "K:init O:medi",
+      "glyph_names": [
+        "KO.init"
+      ],
+      "probes": [
+        {
+          "text": "ᠻᠣᠯ",
+          "glyph_index": 0,
+          "cluster": 0,
+          "end_cluster": 2
+        }
+      ]
+    },
+    {
+      "kind": "units",
+      "units": "K:init O:medi I:medi",
+      "glyph_names": [
+        "KOI.init"
+      ],
+      "probes": [
+        {
+          "text": "ᠻᠥᠯ",
+          "glyph_index": 0,
+          "cluster": 0,
+          "end_cluster": 2
+        }
+      ]
+    },
+    {
+      "kind": "units",
+      "units": "K:init Ue:fina",
+      "glyph_names": [
+        "KUe.isol"
+      ],
+      "probes": [
+        {
+          "text": "ᠻᠥ",
+          "glyph_index": 0,
+          "cluster": 0,
+          "end_cluster": 2
+        }
+      ]
+    },
+    {
+      "kind": "units",
+      "units": "K:init W:fina",
+      "glyph_names": [
+        "KW.isol"
+      ],
+      "probes": [
+        {
+          "text": "ᠻᠧ",
+          "glyph_index": 0,
+          "cluster": 0,
+          "end_cluster": 2
+        }
+      ]
+    },
+    {
+      "kind": "units",
+      "units": "K:init W:medi",
+      "glyph_names": [
+        "KW.init"
+      ],
+      "probes": [
+        {
+          "text": "ᠻᠧᠯ",
+          "glyph_index": 0,
+          "cluster": 0,
+          "end_cluster": 2
+        }
+      ]
+    },
+    {
+      "kind": "units",
+      "units": "K:medi",
+      "glyph_names": [
+        "u183B.K.medi",
+        "uni183B.K.medi"
+      ],
+      "probes": [
+        {
+          "text": "ᠰᠻᠮᠯ",
+          "glyph_index": 1,
+          "cluster": 1,
+          "end_cluster": 2
+        }
+      ]
+    },
+    {
+      "kind": "units",
+      "units": "K:medi A:medi",
+      "glyph_names": [
+        "KA.medi"
+      ],
+      "probes": [
+        {
+          "text": "ᠰᠠᠻᠠᠯ",
+          "glyph_index": 2,
+          "cluster": 2,
+          "end_cluster": 4
+        }
+      ]
+    },
+    {
+      "kind": "units",
+      "units": "K:medi Aa:fina",
+      "glyph_names": [
+        "KAa.fina"
+      ],
+      "probes": [
+        {
+          "text": "ᠰᠠᠻᠠ",
+          "glyph_index": 2,
+          "cluster": 2,
+          "end_cluster": 4
+        }
+      ]
+    },
+    {
+      "kind": "units",
+      "units": "K:medi I:fina",
+      "glyph_names": [
+        "KI.fina"
+      ],
+      "probes": [
+        {
+          "text": "ᠰᠠᠻᠢ",
+          "glyph_index": 2,
+          "cluster": 2,
+          "end_cluster": 4
+        }
+      ]
+    },
+    {
+      "kind": "units",
+      "units": "K:medi I:medi",
+      "glyph_names": [
+        "KI.medi"
+      ],
+      "probes": [
+        {
+          "text": "ᠰᠻᠢᠯ",
+          "glyph_index": 1,
+          "cluster": 1,
+          "end_cluster": 3
+        }
+      ]
+    },
+    {
+      "kind": "units",
+      "units": "K:medi O:fina",
+      "glyph_names": [
+        "KO.fina"
+      ],
+      "probes": [
+        {
+          "text": "ᠰᠠᠻᠣ",
+          "glyph_index": 2,
+          "cluster": 2,
+          "end_cluster": 4
+        }
+      ]
+    },
+    {
+      "kind": "units",
+      "units": "K:medi O:medi",
+      "glyph_names": [
+        "KO.medi"
+      ],
+      "probes": [
+        {
+          "text": "ᠰᠻᠣᠯ",
+          "glyph_index": 1,
+          "cluster": 1,
+          "end_cluster": 3
+        }
+      ]
+    },
+    {
+      "kind": "units",
+      "units": "K:medi O:medi I:medi",
+      "glyph_names": [
+        "KOI.medi"
+      ],
+      "probes": [
+        {
+          "text": "ᠰᠻᠥᠯ",
+          "glyph_index": 1,
+          "cluster": 1,
+          "end_cluster": 3
+        }
+      ]
+    },
+    {
+      "kind": "units",
+      "units": "K:medi Ue:fina",
+      "glyph_names": [
+        "KUe.fina"
+      ],
+      "probes": [
+        {
+          "text": "ᠰᠠᠻᠥ᠋",
+          "glyph_index": 2,
+          "cluster": 2,
+          "end_cluster": 5
+        }
+      ]
+    },
+    {
+      "kind": "units",
+      "units": "K:medi W:fina",
+      "glyph_names": [
+        "KW.fina"
+      ],
+      "probes": [
+        {
+          "text": "ᠰᠠᠻᠧ",
+          "glyph_index": 2,
+          "cluster": 2,
+          "end_cluster": 4
+        }
+      ]
+    },
+    {
+      "kind": "units",
+      "units": "K:medi W:medi",
+      "glyph_names": [
+        "KW.medi"
+      ],
+      "probes": [
+        {
+          "text": "ᠰᠻᠧᠯ",
+          "glyph_index": 1,
+          "cluster": 1,
+          "end_cluster": 3
+        }
+      ]
+    },
+    {
+      "kind": "units",
+      "units": "L:fina",
+      "glyph_names": [
+        "u182F.L.fina",
+        "uni182F.L.fina"
+      ],
+      "probes": [
+        {
+          "text": "ᠠᠠᠯ",
+          "glyph_index": 2,
+          "cluster": 2,
+          "end_cluster": 3
+        }
+      ]
+    },
+    {
+      "kind": "units",
+      "units": "L:init",
+      "glyph_names": [
+        "u182F.L.init",
+        "u182F.L2.init",
+        "uni182F.L.init",
+        "uni182F.L2.init"
+      ],
+      "probes": [
+        {
+          "text": "ᠯᠠᠯ",
+          "glyph_index": 0,
+          "cluster": 0,
+          "end_cluster": 1
+        },
+        {
+          "text": "ᠯ᠋ᠠᠯ",
+          "glyph_index": 0,
+          "cluster": 0,
+          "end_cluster": 2
+        }
+      ]
+    },
+    {
+      "kind": "units",
+      "units": "L:init",
+      "joining": "isol",
+      "glyph_names": [
+        "u182F.L.init._isol",
+        "u182F.L2.init._isol",
+        "uni182F.L.init._isol",
+        "uni182F.L2.init._isol"
+      ],
+      "probes": [
+        {
+          "text": "ᠯ",
+          "glyph_index": 0,
+          "cluster": 0,
+          "end_cluster": 1
+        },
+        {
+          "text": "ᠯ᠋",
+          "glyph_index": 0,
+          "cluster": 0,
+          "end_cluster": 2
+        }
+      ]
+    },
+    {
+      "kind": "units",
+      "units": "L:init Hr:fina",
+      "glyph_names": [
+        "u1840.LHr.init._isol",
+        "uni1840.LHr.init._isol"
+      ],
+      "probes": [
+        {
+          "text": "ᡀ",
+          "glyph_index": 0,
+          "cluster": 0,
+          "end_cluster": 1
+        }
+      ]
+    },
+    {
+      "kind": "units",
+      "units": "L:init Hr:medi",
+      "glyph_names": [
+        "u1840.LHr.init",
+        "uni1840.LHr.init"
+      ],
+      "probes": [
+        {
+          "text": "ᡀᠠᠯ",
+          "glyph_index": 0,
+          "cluster": 0,
+          "end_cluster": 1
+        }
+      ]
+    },
+    {
+      "kind": "units",
+      "units": "L:medi",
+      "glyph_names": [
+        "u182F.L.medi",
+        "uni182F.L.medi"
+      ],
+      "probes": [
+        {
+          "text": "ᠰᠠᠯᠠᠯ",
+          "glyph_index": 2,
+          "cluster": 2,
+          "end_cluster": 3
+        }
+      ]
+    },
+    {
+      "kind": "units",
+      "units": "L:medi Hr:fina",
+      "glyph_names": [
+        "u1840.LHr.medi._fina",
+        "uni1840.LHr.medi._fina"
+      ],
+      "probes": [
+        {
+          "text": "ᠰᠠᡀ",
+          "glyph_index": 2,
+          "cluster": 2,
+          "end_cluster": 3
+        }
+      ]
+    },
+    {
+      "kind": "units",
+      "units": "L:medi Hr:medi",
+      "glyph_names": [
+        "u1840.LHr.medi",
+        "uni1840.LHr.medi"
+      ],
+      "probes": [
+        {
+          "text": "ᠰᠠᡀᠠᠯ",
+          "glyph_index": 2,
+          "cluster": 2,
+          "end_cluster": 3
+        }
+      ]
+    },
+    {
+      "kind": "units",
+      "units": "L:medi L:medi",
+      "glyph_names": [
+        "LL.medi"
+      ]
+    },
+    {
+      "kind": "units",
+      "units": "M:fina",
+      "glyph_names": [
+        "u182E.M.fina",
+        "uni182E.M.fina"
+      ],
+      "probes": [
+        {
+          "text": "ᠰᠠᠮ",
+          "glyph_index": 2,
+          "cluster": 2,
+          "end_cluster": 3
+        }
+      ]
+    },
+    {
+      "kind": "units",
+      "units": "M:init",
+      "glyph_names": [
+        "u182E.M.init",
+        "uni182E.M.init"
+      ],
+      "probes": [
+        {
+          "text": "ᠮᠠᠯ",
+          "glyph_index": 0,
+          "cluster": 0,
+          "end_cluster": 1
+        }
+      ]
+    },
+    {
+      "kind": "units",
+      "units": "M:init",
+      "joining": "isol",
+      "glyph_names": [
+        "u182E.M.init._isol",
+        "uni182E.M.init._isol"
+      ],
+      "probes": [
+        {
+          "text": "ᠮ",
+          "glyph_index": 0,
+          "cluster": 0,
+          "end_cluster": 1
+        }
+      ]
+    },
+    {
+      "kind": "units",
+      "units": "M:medi",
+      "glyph_names": [
+        "u182E.M.medi",
+        "uni182E.M.medi"
+      ],
+      "probes": [
+        {
+          "text": "ᠰᠠᠮᠠᠯ",
+          "glyph_index": 2,
+          "cluster": 2,
+          "end_cluster": 3
+        }
+      ]
+    },
+    {
+      "kind": "units",
+      "units": "M:medi L:medi",
+      "glyph_names": [
+        "ML.medi"
+      ]
+    },
+    {
+      "kind": "units",
+      "units": "M:medi M:medi",
+      "glyph_names": [
+        "MM.medi"
+      ]
+    },
+    {
+      "kind": "units",
+      "units": "Mvs",
+      "glyph_names": [
+        "mvs",
+        "mvs.narrow",
+        "mvs.nominal",
+        "mvs.wide",
+        "nnbsp"
+      ],
+      "probes": [
+        {
+          "text": "ᠠᠨ᠎ᠠ",
+          "glyph_index": 2,
+          "cluster": 2,
+          "end_cluster": 3
+        },
+        {
+          "text": "ᠮᠣᠩᠭᠣᠯ ᠢ",
+          "glyph_index": 5,
+          "cluster": 6,
+          "end_cluster": 7
+        }
+      ]
+    },
+    {
+      "kind": "units",
+      "units": "N:fina",
+      "glyph_names": [
+        "N.fina.mvs",
+        "u1828.N.fina",
+        "uni1828.N.fina"
+      ],
+      "probes": [
+        {
+          "text": "ᠰᠠᠨ᠋",
+          "glyph_index": 2,
+          "cluster": 2,
+          "end_cluster": 4
+        },
+        {
+          "text": "ᠠᠨ᠎ᠠ",
+          "glyph_index": 1,
+          "cluster": 1,
+          "end_cluster": 2
+        }
+      ]
+    },
+    {
+      "kind": "units",
+      "units": "N:init",
+      "glyph_names": [
+        "u1828.N.init",
+        "uni1828.N.init"
+      ],
+      "probes": [
+        {
+          "text": "ᠨᠠᠯ",
+          "glyph_index": 0,
+          "cluster": 0,
+          "end_cluster": 1
+        }
+      ]
+    },
+    {
+      "kind": "units",
+      "units": "N:init",
+      "joining": "isol",
+      "glyph_names": [
+        "u1828.N.init._isol",
+        "uni1828.N.init._isol"
+      ],
+      "probes": [
+        {
+          "text": "ᠨ",
+          "glyph_index": 0,
+          "cluster": 0,
+          "end_cluster": 1
+        }
+      ]
+    },
+    {
+      "kind": "units",
+      "units": "N:init G:medi Aa:fina",
+      "glyph_names": [
+        "NGAa.isol"
+      ]
+    },
+    {
+      "kind": "units",
+      "units": "N:medi",
+      "glyph_names": [
+        "u1828.N.medi",
+        "uni1828.N.medi"
+      ],
+      "probes": [
+        {
+          "text": "ᠰᠠᠨᠠᠯ",
+          "glyph_index": 2,
+          "cluster": 2,
+          "end_cluster": 3
+        }
+      ]
+    },
+    {
+      "kind": "units",
+      "units": "N:medi G:medi Aa:fina",
+      "glyph_names": [
+        "NGAa.fina"
+      ]
+    },
+    {
+      "kind": "units",
+      "units": "Nirugu",
+      "glyph_names": [
+        "nirugu",
+        "nirugu.extend"
+      ],
+      "probes": [
+        {
+          "text": "ᠰ᠊ᠠ",
+          "glyph_index": 1,
+          "cluster": 1,
+          "end_cluster": 2
+        },
+        {
+          "text": "ᠪᠨ",
+          "glyph_index": 1,
+          "cluster": 0,
+          "end_cluster": 1
+        }
+      ]
+    },
+    {
+      "kind": "units",
+      "units": "O:fina",
+      "glyph_names": [
+        "u1823.O.fina",
+        "u1824.O.fina",
+        "u1825.O.fina",
+        "u1826.O.fina",
+        "uni1823.O.fina",
+        "uni1824.O.fina",
+        "uni1825.O.fina",
+        "uni1826.O.fina"
+      ],
+      "probes": [
+        {
+          "text": "ᠬᠣ",
+          "glyph_index": 1,
+          "cluster": 1,
+          "end_cluster": 2
+        },
+        {
+          "text": "ᠬᠤ",
+          "glyph_index": 1,
+          "cluster": 1,
+          "end_cluster": 2
+        },
+        {
+          "text": "ᠰᠠᠥ᠌",
+          "glyph_index": 2,
+          "cluster": 2,
+          "end_cluster": 4
+        },
+        {
+          "text": "ᠰᠠᠦ᠌",
+          "glyph_index": 2,
+          "cluster": 2,
+          "end_cluster": 4
+        }
+      ]
+    },
+    {
+      "kind": "units",
+      "units": "O:init",
+      "glyph_names": [
+        "u1824.O.init",
+        "u1826.O.init",
+        "uni1824.O.init",
+        "uni1826.O.init"
+      ],
+      "probes": [
+        {
+          "text": "ᠮᠣᠩᠭᠣᠯ ᠤᠨ",
+          "glyph_index": 6,
+          "cluster": 7,
+          "end_cluster": 8
+        },
+        {
+          "text": "ᠭᠡᠷ ᠦᠨ",
+          "glyph_index": 3,
+          "cluster": 4,
+          "end_cluster": 5
+        }
+      ]
+    },
+    {
+      "kind": "units",
+      "units": "O:medi",
+      "glyph_names": [
+        "u1823.O.medi",
+        "u1824.O.medi",
+        "u1825.O.medi",
+        "u1826.O.medi",
+        "u1838.O.medi",
+        "uni1823.O.medi",
+        "uni1824.O.medi",
+        "uni1825.O.medi",
+        "uni1826.O.medi",
+        "uni1838.O.medi"
+      ],
+      "probes": [
+        {
+          "text": "ᠰᠠᠣᠠᠯ",
+          "glyph_index": 2,
+          "cluster": 2,
+          "end_cluster": 3
+        },
+        {
+          "text": "ᠰᠠᠤᠠᠯ",
+          "glyph_index": 2,
+          "cluster": 2,
+          "end_cluster": 3
+        },
+        {
+          "text": "ᠰᠠᠥᠠᠯ",
+          "glyph_index": 2,
+          "cluster": 2,
+          "end_cluster": 3
+        },
+        {
+          "text": "ᠰᠠᠦᠠᠯ",
+          "glyph_index": 2,
+          "cluster": 2,
+          "end_cluster": 3
+        },
+        {
+          "text": "ᠰᠠᠸ᠋ᠠᠯ",
+          "glyph_index": 2,
+          "cluster": 2,
+          "end_cluster": 4
+        }
+      ]
+    },
+    {
+      "kind": "units",
+      "units": "O:medi I:medi",
+      "glyph_names": [
+        "u1825.OI.medi",
+        "u1826.OI.medi",
+        "uni1825.OI.medi",
+        "uni1826.OI.medi"
+      ],
+      "probes": [
+        {
+          "text": "ᠬ᠋ᠥᠯ",
+          "glyph_index": 2,
+          "cluster": 2,
+          "end_cluster": 3
+        },
+        {
+          "text": "ᠭᠡᠷ ᠯᠦᠭ᠎ᠡ",
+          "glyph_index": 4,
+          "cluster": 5,
+          "end_cluster": 6
+        }
+      ]
+    },
+    {
+      "kind": "units",
+      "units": "P:fina",
+      "glyph_names": [
+        "u182B.P.fina",
+        "uni182B.P.fina"
+      ],
+      "probes": [
+        {
+          "text": "ᠰᠠᠫ",
+          "glyph_index": 2,
+          "cluster": 2,
+          "end_cluster": 3
+        }
+      ]
+    },
+    {
+      "kind": "units",
+      "units": "P:init",
+      "glyph_names": [
+        "u182B.P.init",
+        "uni182B.P.init"
+      ],
+      "probes": [
+        {
+          "text": "ᠫᠮᠯ",
+          "glyph_index": 0,
+          "cluster": 0,
+          "end_cluster": 1
+        }
+      ]
+    },
+    {
+      "kind": "units",
+      "units": "P:init",
+      "joining": "isol",
+      "glyph_names": [
+        "u182B.P.init._isol",
+        "uni182B.P.init._isol"
+      ],
+      "probes": [
+        {
+          "text": "ᠫ",
+          "glyph_index": 0,
+          "cluster": 0,
+          "end_cluster": 1
+        }
+      ]
+    },
+    {
+      "kind": "units",
+      "units": "P:init A:medi",
+      "glyph_names": [
+        "PA.init"
+      ],
+      "probes": [
+        {
+          "text": "ᠫᠠᠯ",
+          "glyph_index": 0,
+          "cluster": 0,
+          "end_cluster": 2
+        }
+      ]
+    },
+    {
+      "kind": "units",
+      "units": "P:init Aa:fina",
+      "glyph_names": [
+        "PAa.isol"
+      ],
+      "probes": [
+        {
+          "text": "ᠫᠠ",
+          "glyph_index": 0,
+          "cluster": 0,
+          "end_cluster": 2
+        }
+      ]
+    },
+    {
+      "kind": "units",
+      "units": "P:init I:fina",
+      "glyph_names": [
+        "PI.isol"
+      ],
+      "probes": [
+        {
+          "text": "ᠫᠢ",
+          "glyph_index": 0,
+          "cluster": 0,
+          "end_cluster": 2
+        }
+      ]
+    },
+    {
+      "kind": "units",
+      "units": "P:init I:medi",
+      "glyph_names": [
+        "PI.init"
+      ],
+      "probes": [
+        {
+          "text": "ᠫᠢᠯ",
+          "glyph_index": 0,
+          "cluster": 0,
+          "end_cluster": 2
+        }
+      ]
+    },
+    {
+      "kind": "units",
+      "units": "P:init O:fina",
+      "glyph_names": [
+        "PO.isol"
+      ],
+      "probes": [
+        {
+          "text": "ᠫᠣ",
+          "glyph_index": 0,
+          "cluster": 0,
+          "end_cluster": 2
+        }
+      ]
+    },
+    {
+      "kind": "units",
+      "units": "P:init O:medi",
+      "glyph_names": [
+        "PO.init"
+      ],
+      "probes": [
+        {
+          "text": "ᠫᠣᠯ",
+          "glyph_index": 0,
+          "cluster": 0,
+          "end_cluster": 2
+        }
+      ]
+    },
+    {
+      "kind": "units",
+      "units": "P:init O:medi I:medi",
+      "glyph_names": [
+        "POI.init"
+      ],
+      "probes": [
+        {
+          "text": "ᠫᠥᠯ",
+          "glyph_index": 0,
+          "cluster": 0,
+          "end_cluster": 2
+        }
+      ]
+    },
+    {
+      "kind": "units",
+      "units": "P:init Ue:fina",
+      "glyph_names": [
+        "PUe.isol"
+      ],
+      "probes": [
+        {
+          "text": "ᠫᠥ",
+          "glyph_index": 0,
+          "cluster": 0,
+          "end_cluster": 2
+        }
+      ]
+    },
+    {
+      "kind": "units",
+      "units": "P:init W:fina",
+      "glyph_names": [
+        "PW.isol"
+      ],
+      "probes": [
+        {
+          "text": "ᠫᠧ",
+          "glyph_index": 0,
+          "cluster": 0,
+          "end_cluster": 2
+        }
+      ]
+    },
+    {
+      "kind": "units",
+      "units": "P:init W:medi",
+      "glyph_names": [
+        "PW.init"
+      ],
+      "probes": [
+        {
+          "text": "ᠫᠧᠯ",
+          "glyph_index": 0,
+          "cluster": 0,
+          "end_cluster": 2
+        }
+      ]
+    },
+    {
+      "kind": "units",
+      "units": "P:medi",
+      "glyph_names": [
+        "u182B.P.medi",
+        "uni182B.P.medi"
+      ],
+      "probes": [
+        {
+          "text": "ᠰᠫᠮᠯ",
+          "glyph_index": 1,
+          "cluster": 1,
+          "end_cluster": 2
+        }
+      ]
+    },
+    {
+      "kind": "units",
+      "units": "P:medi A:medi",
+      "glyph_names": [
+        "PA.medi"
+      ],
+      "probes": [
+        {
+          "text": "ᠰᠠᠫᠠᠯ",
+          "glyph_index": 2,
+          "cluster": 2,
+          "end_cluster": 4
+        }
+      ]
+    },
+    {
+      "kind": "units",
+      "units": "P:medi Aa:fina",
+      "glyph_names": [
+        "PAa.fina"
+      ],
+      "probes": [
+        {
+          "text": "ᠰᠠᠫᠠ",
+          "glyph_index": 2,
+          "cluster": 2,
+          "end_cluster": 4
+        }
+      ]
+    },
+    {
+      "kind": "units",
+      "units": "P:medi I:fina",
+      "glyph_names": [
+        "PI.fina"
+      ],
+      "probes": [
+        {
+          "text": "ᠰᠠᠫᠢ",
+          "glyph_index": 2,
+          "cluster": 2,
+          "end_cluster": 4
+        }
+      ]
+    },
+    {
+      "kind": "units",
+      "units": "P:medi I:medi",
+      "glyph_names": [
+        "PI.medi"
+      ],
+      "probes": [
+        {
+          "text": "ᠰᠫᠢᠯ",
+          "glyph_index": 1,
+          "cluster": 1,
+          "end_cluster": 3
+        }
+      ]
+    },
+    {
+      "kind": "units",
+      "units": "P:medi O:fina",
+      "glyph_names": [
+        "PO.fina"
+      ],
+      "probes": [
+        {
+          "text": "ᠰᠠᠫᠣ",
+          "glyph_index": 2,
+          "cluster": 2,
+          "end_cluster": 4
+        }
+      ]
+    },
+    {
+      "kind": "units",
+      "units": "P:medi O:medi",
+      "glyph_names": [
+        "PO.medi"
+      ],
+      "probes": [
+        {
+          "text": "ᠰᠫᠣᠯ",
+          "glyph_index": 1,
+          "cluster": 1,
+          "end_cluster": 3
+        }
+      ]
+    },
+    {
+      "kind": "units",
+      "units": "P:medi O:medi I:medi",
+      "glyph_names": [
+        "POI.medi"
+      ],
+      "probes": [
+        {
+          "text": "ᠰᠫᠥᠯ",
+          "glyph_index": 1,
+          "cluster": 1,
+          "end_cluster": 3
+        }
+      ]
+    },
+    {
+      "kind": "units",
+      "units": "P:medi Ue:fina",
+      "glyph_names": [
+        "PUe.fina"
+      ],
+      "probes": [
+        {
+          "text": "ᠰᠠᠫᠥ᠋",
+          "glyph_index": 2,
+          "cluster": 2,
+          "end_cluster": 5
+        }
+      ]
+    },
+    {
+      "kind": "units",
+      "units": "P:medi W:fina",
+      "glyph_names": [
+        "PW.fina"
+      ],
+      "probes": [
+        {
+          "text": "ᠰᠠᠫᠧ",
+          "glyph_index": 2,
+          "cluster": 2,
+          "end_cluster": 4
+        }
+      ]
+    },
+    {
+      "kind": "units",
+      "units": "P:medi W:medi",
+      "glyph_names": [
+        "PW.medi"
+      ],
+      "probes": [
+        {
+          "text": "ᠰᠫᠧᠯ",
+          "glyph_index": 1,
+          "cluster": 1,
+          "end_cluster": 3
+        }
+      ]
+    },
+    {
+      "kind": "units",
+      "units": "R:fina",
+      "glyph_names": [
+        "u1837.R.fina",
+        "uni1837.R.fina"
+      ],
+      "probes": [
+        {
+          "text": "ᠰᠠᠷ",
+          "glyph_index": 2,
+          "cluster": 2,
+          "end_cluster": 3
+        }
+      ]
+    },
+    {
+      "kind": "units",
+      "units": "R:init",
+      "glyph_names": [
+        "u1837.R.init",
+        "uni1837.R.init"
+      ],
+      "probes": [
+        {
+          "text": "ᠷᠠᠯ",
+          "glyph_index": 0,
+          "cluster": 0,
+          "end_cluster": 1
+        }
+      ]
+    },
+    {
+      "kind": "units",
+      "units": "R:init",
+      "joining": "isol",
+      "glyph_names": [
+        "u1837.R.init._isol",
+        "uni1837.R.init._isol"
+      ],
+      "probes": [
+        {
+          "text": "ᠷ",
+          "glyph_index": 0,
+          "cluster": 0,
+          "end_cluster": 1
+        }
+      ]
+    },
+    {
+      "kind": "units",
+      "units": "R:medi",
+      "glyph_names": [
+        "u1837.R.medi",
+        "uni1837.R.medi"
+      ],
+      "probes": [
+        {
+          "text": "ᠰᠠᠷᠠᠯ",
+          "glyph_index": 2,
+          "cluster": 2,
+          "end_cluster": 3
+        }
+      ]
+    },
+    {
+      "kind": "units",
+      "units": "Rh:fina",
+      "glyph_names": [
+        "u183F.Rh.fina",
+        "uni183F.Rh.fina"
+      ],
+      "probes": [
+        {
+          "text": "ᠰᠠᠿ",
+          "glyph_index": 2,
+          "cluster": 2,
+          "end_cluster": 3
+        }
+      ]
+    },
+    {
+      "kind": "units",
+      "units": "Rh:init",
+      "glyph_names": [
+        "u183F.Rh.init",
+        "uni183F.Rh.init"
+      ],
+      "probes": [
+        {
+          "text": "ᠿᠠᠯ",
+          "glyph_index": 0,
+          "cluster": 0,
+          "end_cluster": 1
+        }
+      ]
+    },
+    {
+      "kind": "units",
+      "units": "Rh:init",
+      "joining": "isol",
+      "glyph_names": [
+        "u183F.Rh.init._isol",
+        "uni183F.Rh.init._isol"
+      ],
+      "probes": [
+        {
+          "text": "ᠿ",
+          "glyph_index": 0,
+          "cluster": 0,
+          "end_cluster": 1
+        }
+      ]
+    },
+    {
+      "kind": "units",
+      "units": "Rh:medi",
+      "glyph_names": [
+        "u183F.Rh.medi",
+        "uni183F.Rh.medi"
+      ],
+      "probes": [
+        {
+          "text": "ᠰᠠᠿᠠᠯ",
+          "glyph_index": 2,
+          "cluster": 2,
+          "end_cluster": 3
+        }
+      ]
+    },
+    {
+      "kind": "units",
+      "units": "S:fina",
+      "glyph_names": [
+        "u1830.S.fina",
+        "u1830.S3.fina",
+        "uni1830.S.fina",
+        "uni1830.S3.fina"
+      ],
+      "probes": [
+        {
+          "text": "ᠰᠠᠰ",
+          "glyph_index": 2,
+          "cluster": 2,
+          "end_cluster": 3
+        },
+        {
+          "text": "ᠰᠠᠰ᠌",
+          "glyph_index": 2,
+          "cluster": 2,
+          "end_cluster": 4
+        }
+      ]
+    },
+    {
+      "kind": "units",
+      "units": "S:init",
+      "glyph_names": [
+        "u1830.S.init",
+        "u1831.S.init",
+        "uni1830.S.init",
+        "uni1831.S.init"
+      ],
+      "probes": [
+        {
+          "text": "ᠰᠠᠠᠠᠯ",
+          "glyph_index": 0,
+          "cluster": 0,
+          "end_cluster": 1
+        },
+        {
+          "text": "ᠱ᠋ᠠᠯ",
+          "glyph_index": 0,
+          "cluster": 0,
+          "end_cluster": 2
+        }
+      ]
+    },
+    {
+      "kind": "units",
+      "units": "S:init",
+      "joining": "isol",
+      "glyph_names": [
+        "u1830.S.init._isol",
+        "u1831.S.init._isol",
+        "uni1830.S.init._isol",
+        "uni1831.S.init._isol"
+      ],
+      "probes": [
+        {
+          "text": "ᠰ",
+          "glyph_index": 0,
+          "cluster": 0,
+          "end_cluster": 1
+        },
+        {
+          "text": "ᠱ᠋",
+          "glyph_index": 0,
+          "cluster": 0,
+          "end_cluster": 2
+        }
+      ]
+    },
+    {
+      "kind": "units",
+      "units": "S:medi",
+      "glyph_names": [
+        "u1830.S.medi",
+        "u1831.S.medi",
+        "uni1830.S.medi",
+        "uni1831.S.medi"
+      ],
+      "probes": [
+        {
+          "text": "ᠰᠠᠰᠠᠯ",
+          "glyph_index": 2,
+          "cluster": 2,
+          "end_cluster": 3
+        },
+        {
+          "text": "ᠰᠠᠱ᠋ᠠᠯ",
+          "glyph_index": 2,
+          "cluster": 2,
+          "end_cluster": 4
+        }
+      ]
+    },
+    {
+      "kind": "units",
+      "units": "Sh:fina",
+      "glyph_names": [
+        "u1831.Sh.fina",
+        "uni1831.Sh.fina"
+      ],
+      "probes": [
+        {
+          "text": "ᠰᠠᠱ",
+          "glyph_index": 2,
+          "cluster": 2,
+          "end_cluster": 3
+        }
+      ]
+    },
+    {
+      "kind": "units",
+      "units": "Sh:init",
+      "glyph_names": [
+        "u1831.Sh.init",
+        "uni1831.Sh.init"
+      ],
+      "probes": [
+        {
+          "text": "ᠱᠠᠯ",
+          "glyph_index": 0,
+          "cluster": 0,
+          "end_cluster": 1
+        }
+      ]
+    },
+    {
+      "kind": "units",
+      "units": "Sh:init",
+      "joining": "isol",
+      "glyph_names": [
+        "u1831.Sh.init._isol",
+        "uni1831.Sh.init._isol"
+      ],
+      "probes": [
+        {
+          "text": "ᠱ",
+          "glyph_index": 0,
+          "cluster": 0,
+          "end_cluster": 1
+        }
+      ]
+    },
+    {
+      "kind": "units",
+      "units": "Sh:medi",
+      "glyph_names": [
+        "u1831.Sh.medi",
+        "uni1831.Sh.medi"
+      ],
+      "probes": [
+        {
+          "text": "ᠰᠠᠱᠠᠯ",
+          "glyph_index": 2,
+          "cluster": 2,
+          "end_cluster": 3
+        }
+      ]
+    },
+    {
+      "kind": "units",
+      "units": "Sz:fina",
+      "glyph_names": [
+        "u1830.Sz.fina",
+        "uni1830.Sz.fina"
+      ],
+      "probes": [
+        {
+          "text": "ᠰᠠᠰ᠋",
+          "glyph_index": 2,
+          "cluster": 2,
+          "end_cluster": 4
+        }
+      ]
+    },
+    {
+      "kind": "units",
+      "units": "T:fina",
+      "glyph_names": [
+        "u1832.T.fina",
+        "uni1832.T.fina"
+      ],
+      "probes": [
+        {
+          "text": "ᠰᠠᠲ",
+          "glyph_index": 2,
+          "cluster": 2,
+          "end_cluster": 3
+        }
+      ]
+    },
+    {
+      "kind": "units",
+      "units": "T:init",
+      "glyph_names": [
+        "u1832.T.init",
+        "u1833.T.init",
+        "uni1832.T.init",
+        "uni1833.T.init"
+      ],
+      "probes": [
+        {
+          "text": "ᠲᠠᠯ",
+          "glyph_index": 0,
+          "cluster": 0,
+          "end_cluster": 1
+        },
+        {
+          "text": "ᠳᠠᠯ",
+          "glyph_index": 0,
+          "cluster": 0,
+          "end_cluster": 1
+        }
+      ]
+    },
+    {
+      "kind": "units",
+      "units": "T:init",
+      "joining": "isol",
+      "glyph_names": [
+        "u1832.T.init._isol",
+        "u1833.T.init._isol",
+        "uni1832.T.init._isol",
+        "uni1833.T.init._isol"
+      ],
+      "probes": [
+        {
+          "text": "ᠲ",
+          "glyph_index": 0,
+          "cluster": 0,
+          "end_cluster": 1
+        },
+        {
+          "text": "ᠳ᠋",
+          "glyph_index": 0,
+          "cluster": 0,
+          "end_cluster": 2
+        }
+      ]
+    },
+    {
+      "kind": "units",
+      "units": "T:medi",
+      "glyph_names": [
+        "u1832.T.medi",
+        "uni1832.T.medi"
+      ],
+      "probes": [
+        {
+          "text": "ᠰᠠᠲᠨ",
+          "glyph_index": 2,
+          "cluster": 2,
+          "end_cluster": 3
+        }
+      ]
+    },
+    {
+      "kind": "units",
+      "units": "U:fina",
+      "glyph_names": [
+        "u1823.U.fina",
+        "u1824.U.fina",
+        "u1825.U.fina",
+        "u1826.U.fina",
+        "u1838.U.fina",
+        "uni1823.U.fina",
+        "uni1824.U.fina",
+        "uni1825.U.fina",
+        "uni1826.U.fina",
+        "uni1838.U.fina"
+      ],
+      "probes": [
+        {
+          "text": "ᠰᠠᠣ",
+          "glyph_index": 2,
+          "cluster": 2,
+          "end_cluster": 3
+        },
+        {
+          "text": "ᠰᠠᠤ",
+          "glyph_index": 2,
+          "cluster": 2,
+          "end_cluster": 3
+        },
+        {
+          "text": "ᠰᠠᠥ",
+          "glyph_index": 2,
+          "cluster": 2,
+          "end_cluster": 3
+        },
+        {
+          "text": "ᠰᠠᠦ",
+          "glyph_index": 2,
+          "cluster": 2,
+          "end_cluster": 3
+        },
+        {
+          "text": "ᠠᠸ᠎ᠠ",
+          "glyph_index": 1,
+          "cluster": 1,
+          "end_cluster": 2
+        }
+      ]
+    },
+    {
+      "kind": "units",
+      "units": "U:isol",
+      "glyph_names": [
+        "u1824.U.isol",
+        "u1826.U.isol",
+        "uni1824.U.isol",
+        "uni1826.U.isol"
+      ],
+      "probes": [
+        {
+          "text": "ᠮᠣᠩᠭᠣᠯ ᠤ",
+          "glyph_index": 6,
+          "cluster": 7,
+          "end_cluster": 8
+        },
+        {
+          "text": "ᠦ᠌",
+          "glyph_index": 0,
+          "cluster": 0,
+          "end_cluster": 2
+        }
+      ]
+    },
+    {
+      "kind": "units",
+      "units": "Ue:fina",
+      "glyph_names": [
+        "u1825.Ue.fina",
+        "u1826.Ue.fina",
+        "uni1825.Ue.fina",
+        "uni1826.Ue.fina"
+      ],
+      "probes": [
+        {
+          "text": "ᠬ᠋ᠥ᠋",
+          "glyph_index": 2,
+          "cluster": 2,
+          "end_cluster": 4
+        },
+        {
+          "text": "ᠬ᠋ᠦ᠋",
+          "glyph_index": 2,
+          "cluster": 2,
+          "end_cluster": 4
+        }
+      ]
+    },
+    {
+      "kind": "units",
+      "units": "Ux:isol",
+      "glyph_names": [
+        "u1824.Ux.isol",
+        "u1826.Ux.isol",
+        "uni1824.Ux.isol",
+        "uni1826.Ux.isol"
+      ],
+      "probes": [
+        {
+          "text": "ᠤ᠌",
+          "glyph_index": 0,
+          "cluster": 0,
+          "end_cluster": 2
+        },
+        {
+          "text": "ᠦ᠍",
+          "glyph_index": 0,
+          "cluster": 0,
+          "end_cluster": 2
+        }
+      ]
+    },
+    {
+      "kind": "units",
+      "units": "W:fina",
+      "glyph_names": [
+        "u1827.W.fina",
+        "u1838.W.fina",
+        "uni1827.W.fina",
+        "uni1838.W.fina"
+      ],
+      "probes": [
+        {
+          "text": "ᠰᠠᠧ",
+          "glyph_index": 2,
+          "cluster": 2,
+          "end_cluster": 3
+        },
+        {
+          "text": "ᠰᠠᠸ",
+          "glyph_index": 2,
+          "cluster": 2,
+          "end_cluster": 3
+        }
+      ]
+    },
+    {
+      "kind": "units",
+      "units": "W:init",
+      "glyph_names": [
+        "u1838.W.init",
+        "uni1838.W.init"
+      ],
+      "probes": [
+        {
+          "text": "ᠸᠠᠯ",
+          "glyph_index": 0,
+          "cluster": 0,
+          "end_cluster": 1
+        }
+      ]
+    },
+    {
+      "kind": "units",
+      "units": "W:init",
+      "joining": "isol",
+      "glyph_names": [
+        "u1838.W.init._isol",
+        "uni1838.W.init._isol"
+      ],
+      "probes": [
+        {
+          "text": "ᠸ",
+          "glyph_index": 0,
+          "cluster": 0,
+          "end_cluster": 1
+        }
+      ]
+    },
+    {
+      "kind": "units",
+      "units": "W:medi",
+      "glyph_names": [
+        "u1827.W.medi",
+        "u1838.W.medi",
+        "uni1827.W.medi",
+        "uni1838.W.medi"
+      ],
+      "probes": [
+        {
+          "text": "ᠰᠠᠧᠠᠯ",
+          "glyph_index": 2,
+          "cluster": 2,
+          "end_cluster": 3
+        },
+        {
+          "text": "ᠰᠠᠸᠠᠯ",
+          "glyph_index": 2,
+          "cluster": 2,
+          "end_cluster": 3
+        }
+      ]
+    },
+    {
+      "kind": "units",
+      "units": "Y:init",
+      "glyph_names": [
+        "u1836.Y.init",
+        "uni1836.Y.init"
+      ],
+      "probes": [
+        {
+          "text": "ᠶᠠᠯ",
+          "glyph_index": 0,
+          "cluster": 0,
+          "end_cluster": 1
+        }
+      ]
+    },
+    {
+      "kind": "units",
+      "units": "Y:init",
+      "joining": "isol",
+      "glyph_names": [
+        "u1836.Y.init._isol",
+        "uni1836.Y.init._isol"
+      ],
+      "probes": [
+        {
+          "text": "ᠶ",
+          "glyph_index": 0,
+          "cluster": 0,
+          "end_cluster": 1
+        }
+      ]
+    },
+    {
+      "kind": "units",
+      "units": "Y:medi",
+      "glyph_names": [
+        "u1836.Y.medi",
+        "uni1836.Y.medi"
+      ],
+      "probes": [
+        {
+          "text": "ᠰᠠᠶᠠᠯ",
+          "glyph_index": 2,
+          "cluster": 2,
+          "end_cluster": 3
+        }
+      ]
+    },
+    {
+      "kind": "units",
+      "units": "Z:fina",
+      "glyph_names": [
+        "u183D.Z.fina",
+        "uni183D.Z.fina"
+      ],
+      "probes": [
+        {
+          "text": "ᠰᠠᠽ",
+          "glyph_index": 2,
+          "cluster": 2,
+          "end_cluster": 3
+        }
+      ]
+    },
+    {
+      "kind": "units",
+      "units": "Z:init",
+      "glyph_names": [
+        "u183D.Z.init",
+        "uni183D.Z.init"
+      ],
+      "probes": [
+        {
+          "text": "ᠽᠠᠯ",
+          "glyph_index": 0,
+          "cluster": 0,
+          "end_cluster": 1
+        }
+      ]
+    },
+    {
+      "kind": "units",
+      "units": "Z:init",
+      "joining": "isol",
+      "glyph_names": [
+        "u183D.Z.init._isol",
+        "uni183D.Z.init._isol"
+      ],
+      "probes": [
+        {
+          "text": "ᠽ",
+          "glyph_index": 0,
+          "cluster": 0,
+          "end_cluster": 1
+        }
+      ]
+    },
+    {
+      "kind": "units",
+      "units": "Z:medi",
+      "glyph_names": [
+        "u183D.Z.medi",
+        "uni183D.Z.medi"
+      ],
+      "probes": [
+        {
+          "text": "ᠰᠠᠽᠠᠯ",
+          "glyph_index": 2,
+          "cluster": 2,
+          "end_cluster": 3
+        }
+      ]
+    },
+    {
+      "kind": "units",
+      "units": "Zr:init",
+      "glyph_names": [
+        "u1841.Zr.init",
+        "uni1841.Zr.init"
+      ],
+      "probes": [
+        {
+          "text": "ᡁᠠᠯ",
+          "glyph_index": 0,
+          "cluster": 0,
+          "end_cluster": 1
+        }
+      ]
+    },
+    {
+      "kind": "units",
+      "units": "Zr:init",
+      "joining": "fina",
+      "glyph_names": [
+        "u1841.Zr.init._fina",
+        "uni1841.Zr.init._fina"
+      ],
+      "probes": [
+        {
+          "text": "ᠰᠠᡁ",
+          "glyph_index": 2,
+          "cluster": 2,
+          "end_cluster": 3
+        }
+      ]
+    },
+    {
+      "kind": "units",
+      "units": "Zr:init",
+      "joining": "isol",
+      "glyph_names": [
+        "u1841.Zr.init._isol",
+        "uni1841.Zr.init._isol"
+      ],
+      "probes": [
+        {
+          "text": "ᡁ",
+          "glyph_index": 0,
+          "cluster": 0,
+          "end_cluster": 1
+        }
+      ]
+    },
+    {
+      "kind": "units",
+      "units": "Zr:init",
+      "joining": "medi",
+      "glyph_names": [
+        "u1841.Zr.medi",
+        "uni1841.Zr.medi"
+      ],
+      "probes": [
+        {
+          "text": "ᠰᠠᡁᠠᠯ",
+          "glyph_index": 2,
+          "cluster": 2,
+          "end_cluster": 3
+        }
+      ]
+    },
+    {
+      "kind": "units",
+      "units": "Zwnj",
+      "glyph_names": [
+        "zwnj"
+      ]
+    },
+    {
+      "kind": "silent",
+      "glyph_names": [
+        "feminine",
+        "fvs1.effective",
+        "fvs1.ignored",
+        "fvs2.effective",
+        "fvs2.ignored",
+        "fvs3.effective",
+        "fvs3.ignored",
+        "fvs4.effective",
+        "fvs4.ignored",
+        "lvs.ignored",
+        "masculine",
+        "nirugu.ignored",
+        "zwj",
+        "zwj.ignored",
+        "zwnj.ignored"
+      ],
+      "probes": [
+        {
+          "text": "ᠮᠣᠩᠭᠣᠯ ᠢ᠋",
+          "glyph_index": 7,
+          "cluster": 8
+        },
+        {
+          "text": "ᠬ᠌ᠠ",
+          "glyph_index": 2,
+          "cluster": 1
+        },
+        {
+          "text": "ᠠ᠍",
+          "glyph_index": 1,
+          "cluster": 1
+        },
+        {
+          "text": "ᠬ᠏",
+          "glyph_index": 1,
+          "cluster": 1
+        },
+        {
+          "text": "ᠪ‌ᠠ",
+          "glyph_index": 1,
+          "cluster": 1,
+          "end_cluster": 2
+        }
+      ]
+    },
+    {
+      "kind": "visible_fvs",
+      "glyph_names": [
+        "fvs1",
+        "fvs2",
+        "fvs3",
+        "fvs4",
+        "uni25CC"
+      ],
+      "probes": [
+        {
+          "text": "ᠪ᠋",
+          "glyph_index": 1,
+          "cluster": 1
+        },
+        {
+          "text": "ᠪ᠌",
+          "glyph_index": 1,
+          "cluster": 1
+        },
+        {
+          "text": "ᠪ᠍",
+          "glyph_index": 1,
+          "cluster": 1
+        },
+        {
+          "text": "ᠪ᠏",
+          "glyph_index": 1,
+          "cluster": 1
+        }
+      ]
+    }
+  ]
+}

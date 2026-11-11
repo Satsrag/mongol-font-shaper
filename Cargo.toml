@@ -1,0 +1,47 @@
+# Package manifest for `mongol-font-shaper`
+# `mongol-font-shaper` 包清单配置
+[package]
+name = "mongol-font-shaper"
+version = "0.1.0"
+edition = "2021"
+rust-version = "1.85"
+description = "Font-driven Mongolian shaping, UTN #57 normalization, and multi-font corpus encoding detection / 字体驱动的传统蒙古文塑形、UTN #57 规范化与多字体编码判别工具"
+license = "MIT"
+repository = "https://github.com/Satsrag/mongol-font-shaper"
+readme = "README.md"
+keywords = ["mongolian", "unicode", "shaping", "opentype", "utn57"]
+categories = ["text-processing", "internationalization"]
+include = [
+    "/src/**",
+    "/profiles/**",
+    "/Cargo.toml",
+    "/README.md",
+    "/README.zh-CN.md",
+    "/LICENSE",
+]
+
+[lib]
+name = "mongol_font_shaper"
+path = "src/lib.rs"
+
+[[bin]]
+name = "mongol-font-shaper"
+path = "src/bin/mongol-font-shaper.rs"
+
+[dependencies]
+# Pure-Rust UTN #57 written-unit types and canonical normalizer (`font` feature intentionally disabled).
+# 纯 Rust 的 UTN #57 字形单元类型与规范化器（刻意不开启其内置 `font` feature，由本库统一实现通用字体塑形）。
+mongol-norm = { version = "0.4.1", default-features = false }
+
+# Pure-Rust HarfBuzz shaping engine (supports OpenType GSUB, Apple AAT morx, and pure cmap).
+# 纯 Rust HarfBuzz 塑形引擎（同时支持 OpenType GSUB、Apple AAT morx 以及纯 cmap 映射字体）。
+harfrust = "0.14.0"
+
+# Font table & outline inspection (`post` names, `cmap`, `hmtx`/`vmtx`, TTF/CFF outlines).
+# 字体表与轮廓读取（用于读取 `post` 字形名、`cmap` 码位、字宽度量及本地标定用 TTF/CFF 轮廓）。
+read-fonts = "0.45.0"
+
+# JSON serialization for human-editable FontProfile files and CLI structured output.
+# 用于人类可读可编辑的 FontProfile 配置文件及 CLI 结构化 JSON 输出。
+serde = { version = "1.0", features = ["derive"] }
+serde_json = "1.0"

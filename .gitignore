@@ -1,0 +1,17 @@
+# Build outputs / 编译产物
+/target/
+
+# Local third-party and proprietary fonts (copyright isolation)
+# 本地收集的第三方与商业版权字体目录（严格版权隔离，禁止入库）
+/fonts/
+/local-fonts/
+
+# Local calibration HTML/SVG previews & scratch outputs (contain glyph outlines)
+# 本地标定预览网页与临时输出（包含字形轮廓曲线，禁止入库）
+/var/
+
+# OS & editor metadata / 系统与编辑器临时文件
+.DS_Store
+**/.DS_Store
+*.swp
+*~
